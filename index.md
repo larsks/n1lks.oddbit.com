@@ -32,3 +32,4 @@ The following events have in the past asked for the help of amateur radio volunt
 - [Public service operating guidelines](https://ag6qr.net/index.php/public-service-operating-guidelines/) from AG6QR
 - [HAM Radio Communications Can Support Public Events](https://k6mpn.org/training/resources/2019OctPublic%20Events%20Support_2.pdf) from K6MPN
 - [Amateur Radio Operator's Public Service Guide](https://laarc.weebly.com/uploads/7/3/2/9/73292865/guidlines_for_community_events.pdf) by NM5CR at the [Los Alamos Amateur Radio Club](https://laarc.weebly.com)
+- [How to be a ham radio operator during public service events and nets](https://youtu.be/HHxNOMGSwAI?si=hQ7T_-v_ZJ-z-1Cy) by the [Marin Amateur Radio Society](https://www.w6sg.net/)
