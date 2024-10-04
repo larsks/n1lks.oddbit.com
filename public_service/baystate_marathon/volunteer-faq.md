@@ -35,11 +35,15 @@ packs just in case. Some of you may be able to operate out of your vehicle,
 check out the options once you check in with the water stop team and see what
 the parking situation looks like.
 
-## What else should I bring with me?
+## Besides a radio, what should I bring with me?
 
 Bring your own food, drink, and camp/collapsible chair. I would recommend you
 bring a clipboard with the "tracking" form we have used in the past. Don't
 forget a writing utensil.
+
+Dress for the weather and consider that you will spend most of your time
+sitting still. If the weather is supposed to be on the cooler side, make sure
+you have sufficient insulation.
 
 ## Where can I park?
 
