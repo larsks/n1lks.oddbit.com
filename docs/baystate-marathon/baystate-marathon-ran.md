@@ -90,50 +90,50 @@ standard operating procedures.
 
 ### Example 1
 
-*Net Control:*: Net Control to Med Tent 2  
-*Med Tent 2:*: Med Tent 2 answering Net Control.  
-*Net Control:*: Med Tent 2, do you have anyone for pickup?  
-*Med Tent 2:*: Affirmative, we one runner, bib number 12345 needing transportation to Finish Line, KZ1ZZZ Out  
-*Net Control:*: Med Tent 2, acknowledging bib 12345 needs to be picked up. KC1YYY out.  
+*Net Control*: Net Control to Med Tent 2  
+*Med Tent 2*: Med Tent 2 answering Net Control.  
+*Net Control*: Med Tent 2, do you have anyone for pickup?  
+*Med Tent 2*: Affirmative, we one runner, bib number 12345 needing transportation to Finish Line, KZ1ZZZ Out  
+*Net Control*: Med Tent 2, acknowledging bib 12345 needs to be picked up. KC1YYY out.  
 
 Follow up from Med Tent 2:
 
-*Med Tent 2:*: Med Tent 2 to Net Control  
-*Net Control:*: Net Control answering Med Tent 2.  
-*Legion:*: Net Control runner bib number 12345 has been picked up.  
-*Net Control:*: Med Tent 2, confirming bib number 12345 has been picked up. KC1YYY out.  
+*Med Tent 2*: Med Tent 2 to Net Control  
+*Net Control*: Net Control answering Med Tent 2.  
+*Legion*: Net Control runner bib number 12345 has been picked up.  
+*Net Control*: Med Tent 2, confirming bib number 12345 has been picked up. KC1YYY out.  
 
 ### Example 2
 
-*Legion:*: Legion to Net Control  
-*Net Control:*: Net Control answering Legion.  
-*Legion:*: Net Control we have one runner bib number 54321 here at the Legion for pickup  
-*Net Control:*: Legion, confirming one runner, bib number 54321 needing transportation. KC1YYY out.  
+*Legion*: Legion to Net Control  
+*Net Control*: Net Control answering Legion.  
+*Legion*: Net Control we have one runner bib number 54321 here at the Legion for pickup  
+*Net Control*: Legion, confirming one runner, bib number 54321 needing transportation. KC1YYY out.  
 
 Legion does NOT need to reply unless read back of information is incorrect.
 
 Follow up from Legion:
 
-*Legion:*: Legion to Net Control  
-*Net Control:*: Net Control answering Legion.  
-*Legion:*: Net Control runner bib number 54321 has been picked up  
-*Net Control:*: Legion, confirming one runner, bib number 54321 has been picked up. KC1YYY out  
+*Legion*: Legion to Net Control  
+*Net Control*: Net Control answering Legion.  
+*Legion*: Net Control runner bib number 54321 has been picked up  
+*Net Control*: Legion, confirming one runner, bib number 54321 has been picked up. KC1YYY out  
 
 ### Example 3
 
-*Net Control:*: Net Control to Family Info  
-*Family Info:*: Family Info answering Net Control.  
-*Net Control:*: Family Info, runner bib number 54321 is out of the race and will be returning to Tsongas  
-*Family Info:*: Net Control confirming bib number 54321 is out of the race and to be transported back to Tsongas, AB1CD out.  
+*Net Control*: Net Control to Family Info  
+*Family Info*: Family Info answering Net Control.  
+*Net Control*: Family Info, runner bib number 54321 is out of the race and will be returning to Tsongas  
+*Family Info*: Net Control confirming bib number 54321 is out of the race and to be transported back to Tsongas, AB1CD out.  
 
 When the reported bib number arrives at Tsongas Transportation:
 
-*Tsongas Transportation:*: Tsongas Transportation to Family Info  
-*Family Info:*: Family Info answering Transportation.  
-*Transportation:*: Transportation reporting that bib number 54321 has been dropped off. W1BBB out.  
-*Family Info:*: Family Info acknowledges bib 54321 has been dropped off. AB1CD out.  
-*Family Info reports completion of pickup and drop off cycle to Net Control:*:  
-*Family Info:*: Family Info to Net Control  
-*Net Control:*: Net Control answering Family Info  
-*Family Info:*: Family Info report bib number 54321 has been dropped off. AB1CD out  
-*Net Control:*: Net Control acknowledges bib number 54321 has been dropped off, KC1ZZZ out  
+*Tsongas Transportation*: Tsongas Transportation to Family Info  
+*Family Info*: Family Info answering Transportation.  
+*Transportation*: Transportation reporting that bib number 54321 has been dropped off. W1BBB out.  
+*Family Info*: Family Info acknowledges bib 54321 has been dropped off. AB1CD out.  
+*Family Info reports completion of pickup and drop off cycle to Net Control*:  
+*Family Info*: Family Info to Net Control  
+*Net Control*: Net Control answering Family Info  
+*Family Info*: Family Info report bib number 54321 has been dropped off. AB1CD out  
+*Net Control*: Net Control acknowledges bib number 54321 has been dropped off, KC1ZZZ out  
