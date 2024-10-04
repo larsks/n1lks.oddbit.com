@@ -2,7 +2,14 @@
 title: Baystate Marathon & Half Marathon Amateur Radio Support FAQ
 ---
 
+<!-- source: http://ka8scp.wb1gof.net/BaystateMarathon -->
+
 ## FREQUENCY INFO
+
+<!--
+NB: In the following table, "__" is replaced by "&nbsp;" when we render the HTML. This prevents unhelpful wrapping of
+text in the table cells. See the top-level Makefile for details.
+-->
 
 | Name          | Rx Frequency  | Offset?   | Tx Frequency  | Tone      | Description                            |
 | ------------- | ------------  | --------  | ------------  | -------   | -------------------------------------- |
