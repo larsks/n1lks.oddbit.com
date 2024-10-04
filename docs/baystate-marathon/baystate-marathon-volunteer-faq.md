@@ -1,4 +1,6 @@
-# Baystate Marathon & Half Marathon Amateur Radio Support FAQ
+---
+title: Baystate Marathon & Half Marathon Amateur Radio Support FAQ
+---
 
 ## FREQUENCY INFO
 
