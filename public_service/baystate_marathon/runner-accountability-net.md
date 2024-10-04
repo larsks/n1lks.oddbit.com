@@ -1,4 +1,6 @@
-# Baystate Marathon/Half-Marathon Runner Accountability Net
+---
+title: Baystate Marathon/Half-Marathon Runner Accountability Net
+---
 
 ## Summary
 

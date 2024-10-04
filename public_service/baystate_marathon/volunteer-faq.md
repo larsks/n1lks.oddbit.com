@@ -1,21 +1,22 @@
 ---
 title: Baystate Marathon & Half Marathon Amateur Radio Support FAQ
+make_toc: true
 ---
 
 <!-- source: http://ka8scp.wb1gof.net/BaystateMarathon -->
 
-## FREQUENCY INFO
+## Frequency information
 
 <!--
-NB: In the following table, "__" is replaced by "&nbsp;" when we render the HTML. This prevents unhelpful wrapping of
-text in the table cells. See the top-level Makefile for details.
+NB: The following table makes use of non-breaking spaces (U+00A0) in order to prevent unhelpful wrapping
+in the rendered document.
 -->
 
 | Name          | Rx Frequency  | Offset?   | Tx Frequency  | Tone      | Description                            |
 | ------------- | ------------  | --------  | ------------  | -------   | -------------------------------------- |
-| BAYSTATE1     | 147.495__MHz  | SIMPLEX   | 147.495__MHz  | PL__74.4  | water stop/course, NCS and Family Info |
-| BAYSTATE2     | 147.525__MHz  | SIMPLEX   | 147.525__MHz  | PL__74.4  | Tsongas Circle units                   |
-| PRE/POST RACE | 146.955__Mhz  | -600__KHz | 146.655__Mhz  | PL__74.4  | [WESTFORD MA WB1GOF repeater][wb1gof]  |
+| BAYSTATE1     | 147.495 MHz   | SIMPLEX   | 147.495 MHz   | PL 74.4   | water stop/course, NCS and Family Info |
+| BAYSTATE2     | 147.525 MHz   | SIMPLEX   | 147.525 MHz   | PL 74.4   | Tsongas Circle units                   |
+| PRE/POST RACE | 146.955 Mhz   | -600 KHz  | 146.655 Mhz   | PL 74.4   | [WESTFORD MA WB1GOF repeater][wb1gof]  |
 
 [wb1gof]: http://www.wb1gof.org/repeaters/
 
