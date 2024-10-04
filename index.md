@@ -16,6 +16,13 @@
 - [Baystate marathon](docs/baystate-marathon/)
 -->
 
+### My volunteer activities
+
+- September 2024 [Cycle for
+  Shelter](https://give.emmausinc.org/event/2024-cycle-for-shelter/e570321).
+  You can see a few photos of my station
+  [here](https://photos.app.goo.gl/BknbK9RmPYQ6ZwGP6).
+
 ### Volunteer opportunities
 
 The following events have in the past asked for the help of amateur radio volunteers. Announcements are often made to the various club mailing lists when an event is actively looking for volunteer assistance.
