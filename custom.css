@@ -1,0 +1,30 @@
+#header {
+  border-bottom: thin solid black;
+}
+
+#footer {
+  border-top: thin solid black;
+}
+
+#header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #4078c0;
+  padding: 1ex;
+}
+
+#header ul li {
+  display: inline;
+  border-left: thin solid white;
+  padding: 5px;
+}
+
+#header ul li:first-child {
+  border: none;
+}
+
+#header ul li a {
+  color: white;
+  text-decoration: none;
+}
