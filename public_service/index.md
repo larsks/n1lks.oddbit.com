@@ -16,6 +16,10 @@ The following events have in the past asked for the help of amateur radio volunt
 - [BAA Boston Marathon](https://www.baa.org/races/boston-marathon/volunteer) and [Half Marathon](https://www.baa.org/races/baa-half-marathon/volunteer)
 - [Baystate marathon](https://www.baystatemarathon.com/)
 - [Cycle for Shelter](https://emmausinc.org/cycle-for-shelter-2/)
+
+### More information on opportunities
+
+- The [Boston Amateur Radio Club public service page](https://www.barc.org/public-service/)
 - The [ARRL volunteer opportunities](http://www.arrl.org/volunteer-opportunities) page
 
 ## Articles and documentation about amateur radio public service
