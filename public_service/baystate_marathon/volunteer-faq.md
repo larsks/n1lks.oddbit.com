@@ -58,7 +58,7 @@ table, you should be parking for FREE at the Lot B or Lot C.
 
 ### If you are stationed along the course
 
-???
+Parking will likely be available in the immediate vicinity of each water stop.
 
 ## Where can I pick up volunteer vests?
 
