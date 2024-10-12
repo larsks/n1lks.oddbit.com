@@ -15,7 +15,12 @@ The following events have in the past asked for the help of amateur radio volunt
 
 - [BAA Boston Marathon](https://www.baa.org/races/boston-marathon/volunteer) and [Half Marathon](https://www.baa.org/races/baa-half-marathon/volunteer)
 - [Baystate marathon](https://www.baystatemarathon.com/)
+
+  Terry M. Stader, [KA8SCP], helps organize amateur radio volunteer service at the Baystate Marathon. He has put together a [collection of helpful information](baystate_marathon) for volunteers.
+
 - [Cycle for Shelter](https://emmausinc.org/cycle-for-shelter-2/)
+
+[KA8SCP]: http://ka8scp.wb1gof.net/
 
 ### More information on opportunities
 
