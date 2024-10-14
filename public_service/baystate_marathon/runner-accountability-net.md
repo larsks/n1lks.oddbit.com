@@ -59,6 +59,8 @@ need assistance. These water stops are staffed by running teams from various loc
 coordinate with water stop staff. Runners coming off the course will stop here and wait for transportation. Bib numbers
 of those waiting transport will be provided to Accountability Net Control which will relay to Field Comm 60.
 
+You can view the water stops on [a Google map](https://maps.app.goo.gl/yjpZFd9NWA2VWmK5A).
+
 - **Water Stop #2** (Pawtucket @ Broadway, Lowell - near Humane Society) (tactical call "Water Stop 2") One radio operator (minimum) at this location.
 - **Water Stop #3** (near 188 Princeton, Chelmsford): (tactical call "Water Stop 3") Near Petro Plus @ Polar @ Princeton. One radio operator (minimum) at this location.
 - **Water Stop #4** (old "Townline", 3 Middlesex Rd, Tyngsboro): (tactical call "Water Stop 4") One radio operator (minimum) at this location.
