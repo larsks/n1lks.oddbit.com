@@ -76,8 +76,7 @@ volunteer vests. Feel free to bring your own if you have one. Please return
 them to him at the Family Info table when you are clearing from your
 participation. Most of you at the Tsongas Circle area will be winding down
 between 2 and 3 PM. Remember you need to be parked and in the vicinity by 6:30
-AM because roads will be shut down by 7 AM. Park in Lot B or C. See the
-attached.
+AM because roads will be shut down by 7 AM. Park in Lot B or C.
 
 - **Water stop and course volunteers** - If you need vests and orange placards,
 please stop at the foot of the Rourke Bridge in the Bowlero parking lot ([647
