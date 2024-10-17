@@ -94,6 +94,9 @@ Course volunteers, please plan on being at your location at least 20-30 minutes
 before race start. Check in with the water stop team "lead" at your location
 when you arrive.
 
+UCC/NCS is at Bowlero parking lot ([647 Pawtucket Blvd, Lowell MA 01854][ucc]).
+Please plan on being there by 7AM to assist with set up of NCS station.
+
 ## When do I leave?
 
 Your operational period will depend on when the last of the runners have
