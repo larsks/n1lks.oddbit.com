@@ -16,7 +16,7 @@ in the rendered document.
 | ------------- | ------------  | --------  | ------------  | -------   | -------------------------------------- |
 | BAYSTATE1     | 147.495 MHz   | SIMPLEX   | 147.495 MHz   | PL 74.4   | water stop/course, NCS and Family Info |
 | BAYSTATE2     | 147.525 MHz   | SIMPLEX   | 147.525 MHz   | PL 74.4   | Tsongas Circle units                   |
-| PRE/POST RACE | 146.955 Mhz   | -600 KHz  | 146.655 Mhz   | PL 74.4   | [WESTFORD MA WB1GOF repeater][wb1gof]  |
+| PRE/POST RACE | 146.955 Mhz   | -600 KHz  | 146.355 Mhz   | PL 74.4   | [WESTFORD MA WB1GOF repeater][wb1gof]  |
 
 [wb1gof]: http://www.wb1gof.org/repeaters/
 
