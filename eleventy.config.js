@@ -17,5 +17,8 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginTOC, {
     ul: true
   });
+
+  eleventyConfig.addPassthroughCopy("**/*.kmz");
+
 };
 
