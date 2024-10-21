@@ -19,6 +19,10 @@ export default function(eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy("content/**/*.kmz");
+  eleventyConfig.addPassthroughCopy("content/**/*.png");
+  eleventyConfig.addPassthroughCopy("content/**/*.jpg");
+  eleventyConfig.addPassthroughCopy("content/**/*.pdf");
+  eleventyConfig.addPassthroughCopy("content/**/*.txt");
 
   return {
     dir: {
