@@ -18,7 +18,13 @@ export default function(eleventyConfig) {
     ul: true
   });
 
-  eleventyConfig.addPassthroughCopy("**/*.kmz");
+  eleventyConfig.addPassthroughCopy("content/**/*.kmz");
+
+  return {
+    dir: {
+      input: "content"
+    }
+  }
 
 };
 
