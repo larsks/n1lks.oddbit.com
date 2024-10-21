@@ -23,6 +23,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("content/**/*.jpg");
   eleventyConfig.addPassthroughCopy("content/**/*.pdf");
   eleventyConfig.addPassthroughCopy("content/**/*.txt");
+  eleventyConfig.addPassthroughCopy("content/**/*.gpx");
 
   return {
     dir: {

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2024-10-21T02:44:43.289Z</time>
+  <bounds minlat="42.631567600" minlon="-71.414191000" maxlat="42.668491700" maxlon="-71.311813300"/>
+  <wpt lat="42.648164200" lon="-71.313118100">
+    <ele>0.000</ele>
+    <name>START</name>
+    <cmt>longname: Race Start/Finish&lt;br&gt;description:</cmt>
+    <desc>longname: Race Start/Finish&lt;br&gt;description:</desc>
+  </wpt>
+  <wpt lat="42.649923200" lon="-71.314041800">
+    <ele>0.000</ele>
+    <name>INFO</name>
+    <cmt>longname: Family info table&lt;br&gt;description:</cmt>
+    <desc>longname: Family info table&lt;br&gt;description:</desc>
+  </wpt>
+  <wpt lat="42.640774600" lon="-71.357682600">
+    <ele>0.000</ele>
+    <name>UCC</name>
+    <cmt>longname: UCC/Net control&lt;br&gt;description:</cmt>
+    <desc>longname: UCC/Net control&lt;br&gt;description:</desc>
+  </wpt>
+  <wpt lat="42.650236600" lon="-71.313218800">
+    <ele>0.000</ele>
+    <name>TSONGAS</name>
+    <cmt>longname: Tsongas Center&lt;br&gt;description:</cmt>
+    <desc>longname: Tsongas Center&lt;br&gt;description:</desc>
+  </wpt>
+  <wpt lat="42.649292300" lon="-71.313153300">
+    <ele>0.000</ele>
+    <name>MED1</name>
+    <cmt>longname: Med Tent 1&lt;br&gt;description:</cmt>
+    <desc>longname: Med Tent 1&lt;br&gt;description:</desc>
+  </wpt>
+  <wpt lat="42.651050200" lon="-71.313167000">
+    <ele>0.000</ele>
+    <name>MED1A</name>
+    <cmt>longname: Med Tent 1A&lt;br&gt;description:</cmt>
+    <desc>longname: Med Tent 1A&lt;br&gt;description:</desc>
+  </wpt>
+  <wpt lat="42.640296900" lon="-71.357576000">
+    <ele>0.000</ele>
+    <name>MED2</name>
+    <cmt>longname: Med tent 2&lt;br&gt;description:</cmt>
+    <desc>longname: Med tent 2&lt;br&gt;description:</desc>
+  </wpt>
+  <wpt lat="42.640898100" lon="-71.338142300">
+    <ele>0.000</ele>
+    <name>WATER2</name>
+    <cmt>longname: Water stop 2&lt;br&gt;description: Pawtucket @ Broadway, Lowell - near Humane Society</cmt>
+    <desc>longname: Water stop 2&lt;br&gt;description: Pawtucket @ Broadway, Lowell - near Humane Society</desc>
+  </wpt>
+  <wpt lat="42.631567600" lon="-71.373536000">
+    <ele>0.000</ele>
+    <name>WATER3</name>
+    <cmt>longname: Water stop 3&lt;br&gt;description: Near Petro Plus @ Poplar &amp; Princeton.</cmt>
+    <desc>longname: Water stop 3&lt;br&gt;description: Near Petro Plus @ Poplar &amp; Princeton.</desc>
+  </wpt>
+  <wpt lat="42.652607700" lon="-71.400358100">
+    <ele>0.000</ele>
+    <name>WATER4</name>
+    <cmt>longname: Water stop 4&lt;br&gt;description: Old &quot;Townline&quot;, 3 Middlesex Rd, Tyngsboro</cmt>
+    <desc>longname: Water stop 4&lt;br&gt;description: Old &quot;Townline&quot;, 3 Middlesex Rd, Tyngsboro</desc>
+  </wpt>
+  <wpt lat="42.668491700" lon="-71.414191000">
+    <ele>0.000</ele>
+    <name>WATER5</name>
+    <cmt>longname: Water stop 5&lt;br&gt;description:</cmt>
+    <desc>longname: Water stop 5&lt;br&gt;description:</desc>
+  </wpt>
+  <wpt lat="42.668056500" lon="-71.406577900">
+    <ele>0.000</ele>
+    <name>WATER6</name>
+    <cmt>longname: Water stop 6&lt;br&gt;description: Near 80 Pawtucket Blvd, Tyngsboro, American Legion</cmt>
+    <desc>longname: Water stop 6&lt;br&gt;description: Near 80 Pawtucket Blvd, Tyngsboro, American Legion</desc>
+  </wpt>
+  <wpt lat="42.651635900" lon="-71.389882900">
+    <ele>0.000</ele>
+    <name>WATER7</name>
+    <cmt>longname: Water stop 7&lt;br&gt;description: Near 221-229 Pawtucket Blvd, Tyngsboro, turn out for Greater Lowell Technical High School (GLTHS)</cmt>
+    <desc>longname: Water stop 7&lt;br&gt;description: Near 221-229 Pawtucket Blvd, Tyngsboro, turn out for Greater Lowell Technical High School (GLTHS)</desc>
+  </wpt>
+  <wpt lat="42.639769700" lon="-71.360301300">
+    <ele>0.000</ele>
+    <name>WATER8</name>
+    <cmt>longname: Water stop 8&lt;br&gt;description: Near 820 Pawtucket Blvd, Lowell, east of Old Ferry Rd</cmt>
+    <desc>longname: Water stop 8&lt;br&gt;description: Near 820 Pawtucket Blvd, Lowell, east of Old Ferry Rd</desc>
+  </wpt>
+  <wpt lat="42.646889600" lon="-71.337074300">
+    <ele>0.000</ele>
+    <name>WATER9</name>
+    <cmt>longname: Water stop 9&lt;br&gt;description: Pawtucket Blvd, Lowell, near the Varnum intersection</cmt>
+    <desc>longname: Water stop 9&lt;br&gt;description: Pawtucket Blvd, Lowell, near the Varnum intersection</desc>
+  </wpt>
+  <wpt lat="42.657048500" lon="-71.315446900">
+    <ele>0.000</ele>
+    <name>WATER10</name>
+    <cmt>longname: Water stop 10&lt;br&gt;description: VFW Parkway before Aiken St</cmt>
+    <desc>longname: Water stop 10&lt;br&gt;description: VFW Parkway before Aiken St</desc>
+  </wpt>
+  <wpt lat="42.649452300" lon="-71.312260100">
+    <ele>0.000</ele>
+    <name>PARKB</name>
+    <cmt>longname: Tsongas Lot B Parking&lt;br&gt;description:</cmt>
+    <desc>longname: Tsongas Lot B Parking&lt;br&gt;description:</desc>
+  </wpt>
+  <wpt lat="42.650183200" lon="-71.311813300">
+    <ele>0.000</ele>
+    <name>PARKC</name>
+    <cmt>longname: Tsongas Center Lot C Parking&lt;br&gt;description:</cmt>
+    <desc>longname: Tsongas Center Lot C Parking&lt;br&gt;description:</desc>
+  </wpt>
+</gpx>
