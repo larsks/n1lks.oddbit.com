@@ -4,10 +4,11 @@ title: Baystate Marathon/Half-Marathon Runner Accountability Net
 
 ## Summary
 
-Amateur Radio operators will be providing runner accountability support as outlined in the Baystate
-Marathon EMS Plan. The goal is to make sure that all runners coming off the course are identified by bib number and
-reported to EMS operations for recording. Supplemental to that that record keeping is this information is also reported
-to the Family Information table.
+Amateur Radio operators will be providing runner accountability support as
+outlined in the Baystate Marathon EMS Plan. The goal is to make sure that all
+runners coming off the course are identified by bib number and reported to EMS
+operations for recording. Supplemental to that that record keeping is this
+information is also reported to the Family Information table.
 
 ## Frequencies
 
@@ -24,7 +25,9 @@ in the rendered document.
 
 [wb1gof]: http://www.wb1gof.org/repeaters/
 
-Note that `BAYSTATE1` and `BAYSTATE2` (which you will also hear referred to as `TAC1` and `TAC2`) are **not** tactical call signs. If you need to reach net control, then call for net control.
+Note that `BAYSTATE1` and `BAYSTATE2` (which you will also hear referred to as
+`TAC1` and `TAC2`) are **not** tactical call signs. If you need to reach net
+control, then call for net control.
 
 ## Roles
 
@@ -35,50 +38,62 @@ Multiple locations serve as functional components of runner accountability.
 The Tsongas Circle volunteers should back each other up for breaks, etc. Feel free to rotate thru
 positions. Please make sure IDENTIFY your location as well as your call!
 
-- **Medical Triage** (tactical call "Triage") -- Runners who have sought any kind of assistance will be funneled thru triage
-evaluation and provided care as required.
+- **Medical Triage** (tactical call "Triage") -- Runners who have sought any
+kind of assistance will be funneled thru triage evaluation and provided care as
+required.
 
-- **Med Tent 1 and 1A** (tactical call "Med Tent 1" and "Med Tent 1A" respectively) -- Runners who require specific care
+- **Med Tent 1 and 1A** (tactical call "Med Tent 1" and "Med Tent 1A"
+respectively) -- Runners who require specific care
 identified by the triage team will be addressed here and then released or transported to a local hospital. (5 hams
 between the 2 med tents)
 
-- **Transportation Drop-off** (tactical call "Tsongas Transportation") -- Runners who are unable to complete the course
+- **Transportation Drop-off** (tactical call "Tsongas Transportation") --
+Runners who are unable to complete the course
 are picked up downstream and returned to a bus drop-off point in the Tsongas Circle area. Bib numbers of all runners
 coming off the bus are to be reported to the Family Information table. (1-2 hams)
 
-- **Family Information** (tactical call "Family Info") -- Central collection point of runner and their bib numbers as
+- **Family Information** (tactical call "Family Info") -- Central collection
+point of runner and their bib numbers as
 registered. This location will get the results of what runners will not be completing the course for whatever reason.
 Family members will be able to determine the status of their runner. (1-2 ham)
 
 ### Rourke Bridge/Brunswick locations
 
 - **Brunswick Lanes/UCC parking lot** (tactical call "Net Control") -- The Runner Accountability Net will be managed
-from the Lowell FD Special Operation Unit to be located with FieldComm60 and the MEMA trailer (UCC) in the parking
+from the Lowell FD Special Operation Unit to be located with FieldComm60 and
+the MEMA trailer (UCC) in the parking
 lot.
 
-- **Med Tent 2** (tactical call "Med Tent 2") -- located at the foot of the Rourke Bridge on Pawtucket Ave, across the street
+- **Med Tent 2** (tactical call "Med Tent 2") -- located at the foot of the
+Rourke Bridge on Pawtucket Ave, across the street
 from the UCC. Shuttle buses on the course will pick up runners from water/stop first aid locations or elsewhere on the
 course as identified and dropped off at Med Tent 2 for evaluation. Runners who need to be returned to start Start/Finish
 line located at Tsongas will be picked up here.
 
 ### Vehicle Staffing
 
-- **Inner Loop shuttle** (tactical call "Inner Loop") -- One person on this bus that runs from the Rourke Bridge to Tsongas
+- **Inner Loop shuttle** (tactical call "Inner Loop") -- One person on this bus
+that runs from the Rourke Bridge to Tsongas
 Circle.
 
-- **Outer Loop shuttle** (tactical call "Outer Loop") -- One person on this bus that runs from the Rourke Bridge to the
+- **Outer Loop shuttle** (tactical call "Outer Loop") -- One person on this bus
+that runs from the Rourke Bridge to the
 downstream water stops.
 
-- **Sweep Vehicle** (tactical call "Sweep") -- One person on this bus that picks up the last of the runners.
+- **Sweep Vehicle** (tactical call "Sweep") -- One person on this bus that
+picks up the last of the runners.
 
 ### Water Stops
 
-We will be trying to staff each water stop. The role here is to report bib numbers of runners who
-need assistance. These water stops are staffed by running teams from various local schools. These stations will
-coordinate with water stop staff. Runners coming off the course will stop here and wait for transportation. Bib numbers
-of those waiting transport will be provided to Accountability Net Control which will relay to Field Comm 60.
+We will be trying to staff each water stop. The role here is to report bib
+numbers of runners who need assistance. These water stops are staffed by
+running teams from various local schools. These stations will coordinate with
+water stop staff. Runners coming off the course will stop here and wait for
+transportation. Bib numbers of those waiting transport will be provided to
+Accountability Net Control which will relay to Field Comm 60.
 
-You can view the water stops on [a Google map](https://www.google.com/maps/d/edit?mid=1rC-I3OCAc0QHuxk70ZAqEkQjfx6NonM&usp=sharing).
+You can view the water stops on [a Google
+map](https://www.google.com/maps/d/edit?mid=1rC-I3OCAc0QHuxk70ZAqEkQjfx6NonM&usp=sharing).
 
 - **Water Stop #2**: Pawtucket @ Broadway, Lowell - near Humane Society
 - **Water Stop #3**: near 188 Princeton, Chelmsford
@@ -107,9 +122,10 @@ You can view the water stops on [a Google map](https://www.google.com/maps/d/edi
 
 ## Radio Use and Tactical Call Signs
 
-It is important that you identify yourself properly using standard amateur radio procedures. All stations will have
-an assigned tactical Call Sign. Be sure that at the end of each complete exchange, you use your FCC call sign as per
-standard operating procedures.
+It is important that you identify yourself properly using standard amateur
+radio procedures. All stations will have an assigned tactical Call Sign. Be
+sure that at the end of each complete exchange, you use your FCC call sign as
+per standard operating procedures.
 
 ### Example 1
 
