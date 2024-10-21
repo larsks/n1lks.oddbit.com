@@ -12,3 +12,5 @@ These documents contain information for amateur radio operators volunteering at 
 [map]: https://www.google.com/maps/d/edit?mid=1rC-I3OCAc0QHuxk70ZAqEkQjfx6NonM&usp=sharing
 [kmz]: baystate-radio-locations.kmz
 [gpx]: baystate-radio-locations.gpx
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1rC-I3OCAc0QHuxk70ZAqEkQjfx6NonM&ehbc=2E312F" width="800" height="480"></iframe>
