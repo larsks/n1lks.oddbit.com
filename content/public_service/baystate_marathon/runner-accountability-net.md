@@ -9,11 +9,30 @@ Marathon EMS Plan. The goal is to make sure that all runners coming off the cour
 reported to EMS operations for recording. Supplemental to that that record keeping is this information is also reported
 to the Family Information table.
 
+## Frequencies
+
+<!--
+NB: The following table makes use of non-breaking spaces (U+00A0) in order to prevent unhelpful wrapping
+in the rendered document.
+-->
+
+| Name          | Rx Frequency  | Offset?   | Tx Frequency  | Tone      | Description                            |
+| ------------- | ------------  | --------  | ------------  | -------   | -------------------------------------- |
+| BAYSTATE1     | 147.495 MHz   | SIMPLEX   | 147.495 MHz   | PL 74.4   | water stop/course, NCS and Family Info |
+| BAYSTATE2     | 147.525 MHz   | SIMPLEX   | 147.525 MHz   | PL 74.4   | Tsongas Circle units                   |
+| PRE/POST RACE | 146.955 Mhz   | -600 KHz  | 146.355 Mhz   | PL 74.4   | [WESTFORD MA WB1GOF repeater][wb1gof]  |
+
+[wb1gof]: http://www.wb1gof.org/repeaters/
+
+Note that `BAYSTATE1` and `BAYSTATE2` (which you will also hear referred to as `TAC1` and `TAC2`) are **not** tactical call signs. If you need to reach net control, then call for net control.
+
 ## Roles
 
 Multiple locations serve as functional components of runner accountability.
 
-- **Tsongas Circle** -- The Tsongas Circle volunteers should back each other up for breaks, etc. Feel free to rotate thru
+### Tsongas Circle
+
+The Tsongas Circle volunteers should back each other up for breaks, etc. Feel free to rotate thru
 positions. Please make sure IDENTIFY your location as well as your call!
 
 - **Medical Triage** (tactical call "Triage") -- Runners who have sought any kind of assistance will be funneled thru triage
@@ -59,18 +78,18 @@ need assistance. These water stops are staffed by running teams from various loc
 coordinate with water stop staff. Runners coming off the course will stop here and wait for transportation. Bib numbers
 of those waiting transport will be provided to Accountability Net Control which will relay to Field Comm 60.
 
-You can view the water stops on [a Google map](https://maps.app.goo.gl/yjpZFd9NWA2VWmK5A).
+You can view the water stops on [a Google map](https://www.google.com/maps/d/edit?mid=1rC-I3OCAc0QHuxk70ZAqEkQjfx6NonM&usp=sharing).
 
-- **Water Stop #2** (Pawtucket @ Broadway, Lowell - near Humane Society) (tactical call "Water Stop 2") One radio operator (minimum) at this location.
-- **Water Stop #3** (near 188 Princeton, Chelmsford): (tactical call "Water Stop 3") Near Petro Plus @ Polar @ Princeton. One radio operator (minimum) at this location.
-- **Water Stop #4** (old "Townline", 3 Middlesex Rd, Tyngsboro): (tactical call "Water Stop 4") One radio operator (minimum) at this location.
-- **Water Stop #5** (141 Middlesex Rd, Tyngsboro) : (tactical call "Water Stop 5") One radio operator (minimum) at this location.
-- **Water Stop #6** (near 80 Pawtucket Blvd, Tyngsboro, American Legion) : (tactical call "Water Stop 6") One radio operator (minimum) at this location. Co-located with Tyngsboro Fire/EMS.
-- **Water Stop #7** (near 221-229 Pawtucket Blvd, Tyngsboro, Lowell VoTech turn out) : (tactical call "Water Stop 7") One radio operator (minimum) at this location.
-- **Water Stop #8** (near 820 Pawtucket Blvd, Lowell, east of Old Ferry Rd): (tactical call "Water Stop 8") One radio operator (minimum) at this location.
-- **Water Stop #9** (near 160 Pawtucket Blvd, Lowell, near the Varnum intersection): (tactical call "Water Stop 9") One radio operator (minimum) at this location.
-- **Water Stop #10** VFW Pkwy/Pawtucket Blvd, (before Aiken St.) Lowell: (tactical call "Water Stop 10") One radio operator (minimum) at this location.
-- **Water Stop #11** (**OPTIONAL**) (60 Suffolk St, Lowell): (tactical call "Water Stop 11") One radio operator (minimum) at this location.
+- **Water Stop #2**: Pawtucket @ Broadway, Lowell - near Humane Society
+- **Water Stop #3**: near 188 Princeton, Chelmsford
+- **Water Stop #4**: old "Townline", 3 Middlesex Rd, Tyngsboro
+- **Water Stop #5**: 141 Middlesex Rd, Tyngsboro
+- **Water Stop #6**: near 80 Pawtucket Blvd, Tyngsboro, American Legion
+- **Water Stop #7**: near 221-229 Pawtucket Blvd, Tyngsboro, turn out for Greater Lower Technical High School
+- **Water Stop #8**: near 820 Pawtucket Blvd, Lowell, east of Old Ferry Rd
+- **Water Stop #9**: near the Varnum intersection
+- **Water Stop #10** VFW Pkwy/Pawtucket Blvd, (before Aiken St.)
+- **Water Stop #11** (**OPTIONAL**): 60 Suffolk St, Lowell
 
 
 | Waterstop # | Location | Location Description | School assigned |
@@ -80,7 +99,7 @@ You can view the water stops on [a Google map](https://maps.app.goo.gl/yjpZFd9NW
 | 4           | Mile 5.8/Mile 15.9 | 3-7 Middlesex Rd (3A) (Tyngsborough Sewer Dept) | Norte Dame Academy |
 | 5           | Mile 7.4/Mile 17.5 | 141 Middlesex Rd (3A) | Shawsheen Tech |
 | 6           | Mile 8.8/Mile 18.9 | Pawtucket Blvd (Rt 113), no address, across from the old Tyngsboro Country Club | Tyngsborough HS |
-| 7           | Mile 10.4/Mile 20.5 | Pawtucket Blvd (Rt 113), no address, turn out to Greater Lowell Vocational HS | Greater Lowell Vocational HS |
+| 7           | Mile 10.4/Mile 20.5 | Pawtucket Blvd (Rt 113), no address, turn out to Greater Lowell Technical HS | Greater Lowell Vocational HS |
 | 8           | Mile 12.4/Mile 22.5 | Pawtucket Blvd (Rt 113), no address, driveway across from Market Basket, just E of Old Ferry Rd. | Groton Dunstable HS |
 | 9           | Mile 23.8 | Pawtucket Blvd (Rt 113), no address, about 300 feet W of Varnum intersection | Dracut HS |
 | 10          | Mile 25.2 | Pawtucket Blvd (Rt 113), no address, about 600 feet W of Aiken intersection | Westford Academy |
@@ -104,24 +123,24 @@ Follow up from Med Tent 2:
 
 *Med Tent 2*: Med Tent 2 to Net Control  
 *Net Control*: Net Control answering Med Tent 2.  
-*Legion*: Net Control runner bib number 12345 has been picked up.  
+*Med Tent 2*: Net Control runner bib number 12345 has been picked up.  
 *Net Control*: Med Tent 2, confirming bib number 12345 has been picked up. KC1YYY out.  
 
 ### Example 2
 
-*Legion*: Legion to Net Control  
-*Net Control*: Net Control answering Legion.  
-*Legion*: Net Control we have one runner bib number 54321 here at the Legion for pickup  
-*Net Control*: Legion, confirming one runner, bib number 54321 needing transportation. KC1YYY out.  
+*Water stop 6*: Water stop 6 to Net Control  
+*Net Control*: Net Control answering water stop 6.  
+*Water stop 6*: Net Control we have one runner bib number 54321 here for pickup  
+*Net Control*: Water stop 6, confirming one runner, bib number 54321 needing transportation. KC1YYY out.  
 
-Legion does NOT need to reply unless read back of information is incorrect.
+Water stop 6 does NOT need to reply unless read back of information is incorrect.
 
-Follow up from Legion:
+Follow up from water stop 6:
 
-*Legion*: Legion to Net Control  
-*Net Control*: Net Control answering Legion.  
-*Legion*: Net Control runner bib number 54321 has been picked up  
-*Net Control*: Legion, confirming one runner, bib number 54321 has been picked up. KC1YYY out  
+*Water stop 6*: Water stop 6 to Net Control.  
+*Net Control*: Net Control answering water stop 6.  
+*Water stop 6*: Net Control runner bib number 54321 has been picked up  
+*Net Control*: Water stop 6, confirming one runner, bib number 54321 has been picked up. KC1YYY out.  
 
 ### Example 3
 
