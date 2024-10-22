@@ -26,6 +26,9 @@ title: Amateur radio public service
 The following events have in the past asked for the help of amateur radio volunteers. Announcements are often made to the various club mailing lists when an event is actively looking for volunteer assistance.
 
 - [BAA Boston Marathon](https://www.baa.org/races/boston-marathon/volunteer) and [Half Marathon](https://www.baa.org/races/baa-half-marathon/volunteer)
+
+  I have collected some information about the BAA Half Marathon [here](baa_half_marathon).
+
 - [Baystate marathon][bm]
 
   I have collected some information [here](baystate_marathon) for volunteers at the Baystate Marathon. Much of this material originated with Terry M. Stader, [KA8SCP], who helps organize amateur radio volunteer service at this event.
