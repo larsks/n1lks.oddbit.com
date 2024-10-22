@@ -30,16 +30,16 @@ Rourke Bridge. **THIS DOES NOT APPLY TO TSONGAS CIRCLE LOCATIONS!**
 
 ## What sort of radio do I need?
 
-You ONLY Need an HT. A 5 watt HT should be sufficient. Bring extra battery
-packs just in case. Some of you may be able to operate out of your vehicle,
-check out the options once you check in with the water stop team and see what
-the parking situation looks like.
+A 5 watt HT should be sufficient. Bring extra battery packs just in case. Some
+of you may be able to operate out of your vehicle, check out the options once
+you check in with the water stop team and see what the parking situation looks
+like.
 
 ## Besides a radio, what should I bring with me?
 
 Bring your own food, drink, and camp/collapsible chair. I would recommend you
 bring a clipboard with the "tracking" form we have used in the past. Don't
-forget a writing utensil.
+forget a writing implement.
 
 Dress for the weather and consider that you will spend most of your time
 sitting still. If the weather is supposed to be on the cooler side, make sure
@@ -47,9 +47,9 @@ you have sufficient insulation.
 
 ## Where can I park?
 
-### Blue parking placards
+### Parking placards
 
-Those assigned to the Tsongas Circle area can pickup BLUE "2024 Official Race
+Those assigned to the Tsongas Circle area can pick up "2024 Official Race
 Vehicle Baystate Marathon" placards at the Tsongas Family Info table before you
 park, or pick them up from Terry KA8SCP at the Rourke Bridge Unified Command Center
 at [Bowlero Lowell, 647 Pawtucket Blvd, Lowell][ucc] after 6:30 AM.
