@@ -16,6 +16,8 @@ When operating at a public service event for which I will need a mobile radio, I
 [ftm]: https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=249&encProdID=3BEE472B7584ACA7C6A71F41B8ADCEC9&DivisionID=65&isArchived=0
 [djb-2]: https://edsantennas.weebly.com/
 
+![Mobile radio deployed on a folding table with atenna mast on a tripod in the background](mobile-station.jpg)
+
 ## HTs
 
 At events for which an HT is appropriate, I use a Radioddity [GD-77] running the [OpenGD77] firmware.
