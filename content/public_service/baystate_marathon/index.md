@@ -7,6 +7,7 @@ These documents contain information for amateur radio operators volunteering at 
 - [Radio operator volunteer FAQ](volunteer-faq)
 - [Runner Accountability Net](runner-accountability-net)
 - Radio operator locations [as a map][map], as [a GPX file][gpx] and [as a KMZ document][kmz].
+- Official [course map](https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/uml.sidearmsports.com/documents/2022/10/15/baystate-marathon-maps.pdf)
 
 [baystate marathon]: https://www.baystatemarathon.com/
 [map]: https://www.google.com/maps/d/edit?mid=1rC-I3OCAc0QHuxk70ZAqEkQjfx6NonM&usp=sharing

@@ -6,20 +6,30 @@ title: Amateur radio public service
 
 - September 2024 [Cycle for
   Shelter](https://give.emmausinc.org/event/2024-cycle-for-shelter/e570321).
-  You can see a few photos of my station
-  [here](https://photos.app.goo.gl/BknbK9RmPYQ6ZwGP6).
+
+  I was stationed at the [Boxford Second Congregational Church][boxford]. You can see a few photos of my station
+  [here](https://photos.app.goo.gl/BknbK9RmPYQ6ZwGP6). I've put together a map of the courses and rest stops [here](https://www.google.com/maps/d/edit?mid=1AVcfy-LazXzyhn2wXhymyljLHbaF0zA&usp=sharing).
+
+  [boxford]: https://maps.app.goo.gl/XeGoP6vEKsBJMwGW8
+
+- October 2024 [Baystate Marathon][bm]
+
+  I was stationed at medical tent 1A along with Tim Carter [K1DC]. Our job was to record the bib numbers of runners coming in for medical care so that we could provide those to the family info table if someone dropped by looking for their people.
+
+[k1dc]: https://www.qrz.com/db/K1DC
 
 ## Public service opportunities
 
 The following events have in the past asked for the help of amateur radio volunteers. Announcements are often made to the various club mailing lists when an event is actively looking for volunteer assistance.
 
 - [BAA Boston Marathon](https://www.baa.org/races/boston-marathon/volunteer) and [Half Marathon](https://www.baa.org/races/baa-half-marathon/volunteer)
-- [Baystate marathon](https://www.baystatemarathon.com/)
+- [Baystate marathon][bm]
 
-  Terry M. Stader, [KA8SCP], helps organize amateur radio volunteer service at the Baystate Marathon. He has put together a [collection of helpful information](baystate_marathon) for volunteers.
+  I have collected some information [here](baystate_marathon) for volunteers at the Baystate Marathon. Much of this material originated with Terry M. Stader, [KA8SCP], who helps organize amateur radio volunteer service at this event.
 
 - [Cycle for Shelter](https://emmausinc.org/cycle-for-shelter-2/)
 
+[bm]: https://www.baystatemarathon.com/
 [KA8SCP]: http://ka8scp.wb1gof.net/
 
 ### More information on opportunities
