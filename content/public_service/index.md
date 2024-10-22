@@ -16,7 +16,10 @@ title: Amateur radio public service
 
   I was stationed at medical tent 1A along with Tim Carter [K1DC]. Our job was to record the bib numbers of runners coming in for medical care so that we could provide those to the family info table if someone dropped by looking for their people.
 
+- November 2024 [BAA Half Marathon][baahalf]
+
 [k1dc]: https://www.qrz.com/db/K1DC
+[baahalf]: https://www.baa.org/races/boston-half
 
 ## Public service opportunities
 
