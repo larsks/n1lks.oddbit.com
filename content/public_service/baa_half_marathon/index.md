@@ -16,3 +16,7 @@ title: BAA Half Marathon
 - [Course description and map](https://www.baa.org/races/baa-half-marathon/watch/course-information)
 - Course map [in PDF format](https://www.baa.org/sites/default/files/2024-09/2024%20Half%20Course%20Map.pdf) and as a [GPX file](BAA_Half_Marathon_Course.gpx)
 - [Google Map](https://drive.google.com/open?id=1o0ubK3VPpksw5mUnIkdFxpMeEK-NV_1j&usp=sharing) with fluid stops and other locations
+
+## Amateur radio information
+
+- 2024 Team captain Brett Smith, [AB1RL](https://www.qrz.com/db/AB1RL), <ab1rl@brettcsmith.org>.
