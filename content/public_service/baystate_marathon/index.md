@@ -15,3 +15,7 @@ These documents contain information for amateur radio operators volunteering at 
 [gpx]: baystate-radio-locations.gpx
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1rC-I3OCAc0QHuxk70ZAqEkQjfx6NonM&ehbc=2E312F" width="800" height="480"></iframe>
+
+## 2024
+
+- [Radio operator assignments](2024/assignments)
