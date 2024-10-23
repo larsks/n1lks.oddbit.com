@@ -12,31 +12,36 @@ title: Amateur radio public service
 
   [boxford]: https://maps.app.goo.gl/XeGoP6vEKsBJMwGW8
 
-- October 2024 [Baystate Marathon][bm]
+- October 2024 [Baystate Marathon][baystate]
 
   I was stationed at medical tent 1A along with Tim Carter [K1DC]. Our job was to record the bib numbers of runners coming in for medical care so that we could provide those to the family info table if someone dropped by looking for their people.
 
 - November 2024 [BAA Half Marathon][baahalf]
 
 [k1dc]: https://www.qrz.com/db/K1DC
-[baahalf]: https://www.baa.org/races/boston-half
 
 ## Public service opportunities
 
 The following events have in the past asked for the help of amateur radio volunteers. Announcements are often made to the various club mailing lists when an event is actively looking for volunteer assistance.
 
-- [BAA Boston Marathon](https://www.baa.org/races/boston-marathon/volunteer) and [Half Marathon](https://www.baa.org/races/baa-half-marathon/volunteer)
+- [BAA Boston Marathon][baa] in April
 
-  I have collected some information about the BAA Half Marathon [here](baa_half_marathon).
+- [Cycle for Shelter][cfs] in September
 
-- [Baystate marathon][bm]
+- [Baystate marathon][baystate] in October
 
   I have collected some information [here](baystate_marathon) for volunteers at the Baystate Marathon. Much of this material originated with Terry M. Stader, [KA8SCP], who helps organize amateur radio volunteer service at this event.
 
-- [Cycle for Shelter](https://emmausinc.org/cycle-for-shelter-2/)
+  [baystate]: https://www.baystatemarathon.com/
 
-[bm]: https://www.baystatemarathon.com/
-[KA8SCP]: http://ka8scp.wb1gof.net/
+- [BAA Half Marathon][baahalf] in November
+ 
+  I have collected some information about the BAA Half Marathon [here](baa_half_marathon).
+
+[baa]: https://www.baa.org/races/boston-marathon/volunteer
+[baahalf]: https://www.baa.org/races/boston-half
+[cfs]: https://emmausinc.org/cycle-for-shelter-2/
+[ka8scp]: http://ka8scp.wb1gof.net/
 
 ### More information on opportunities
 
