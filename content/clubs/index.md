@@ -11,3 +11,4 @@ title: Nearby amateur radio organizations
 - [Waltham Amateur Radio Association](https://walthamara.org/)
 - [Port City Amateur Radio Club (PCARC)](https://w1wqm.org/repeaters/)
 - [North Shore Radio Association](https://www.nsradio.org/)
+- [New England Sci-Tech Amateur Radio Society](https://nescitech.org/stars)
