@@ -21,3 +21,4 @@ This is not an exhaustive list of organizations; these are just ones that I have
 - [New England Sci-Tech Amateur Radio Society](https://nescitech.org/stars)
 - [Police Amateur Radio Team (PART) of Westford](http://www.wb1gof.org/)
 - [MIT Radio Society (W1XM)](https://w1mx.mit.edu/)
+- [Cape Anne Amateur Radio Association](https://caara.net/main/)
