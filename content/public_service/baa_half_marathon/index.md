@@ -15,7 +15,7 @@ title: BAA Half Marathon
 
 - [Course description and map](https://www.baa.org/races/baa-half-marathon/watch/course-information)
 - Course map [in PDF format](https://www.baa.org/sites/default/files/2024-09/2024%20Half%20Course%20Map.pdf) and as a [GPX file](BAA_Half_Marathon_Course.gpx)
-- [Google Map](https://drive.google.com/open?id=1o0ubK3VPpksw5mUnIkdFxpMeEK-NV_1j&usp=sharing) with fluid stops and other locations
+- [Google Map](https://www.google.com/maps/d/viewer?mid=1kEJFM7YTTAuPOR5OPX-9ASWEQTRiicY&ll=42.31461218028117%2C-71.09632372636027&z=15) with fluid stops and other locations
 
 ## Amateur radio information
 
