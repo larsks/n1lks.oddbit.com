@@ -2,7 +2,7 @@
 |------------|----------|----------|-----------------|---------|
 | [K1DSL](https://qrz.com/db/K1DSL) [K8ZBE](https://qrz.com/db/K8ZBE) [KB1LPW](https://qrz.com/db/KB1LPW) | Shattuck medical tent | Shattuck | Medical Station : Circuit Drive | on the south side of Circuit Drive just west of Shattuck triangle |
 | [K8ZBE](https://qrz.com/db/K8ZBE) | Water Station 5 | Water Station 5 | Water Station 5 | on the south side of Shattuck triangle on Circuit Drive |
-| [KB1LPW](https://qrz.com/db/KB1LPW) | Chris C/A | Chris |  | with Chris Troyanos |
+| [KB1LPW](https://qrz.com/db/KB1LPW) | Chris C/A | Chris |  | with Chris Troyanos **CALL HERE FOR MEDICAL EMERGENCY** |
 | [KB1LYJ](https://qrz.com/db/KB1LYJ) | Finish medical tent | Finish |  | north of Playstead Road at the intersection with Pierpont Road |
 | [KB1WZU](https://qrz.com/db/KB1WZU) | Pro Bus 1 | Pro Bus 1 | ADA Transit #1 Staging | Board bus outside Finish medical tent after briefing - Stage at location shown on map |
 | [KC1DDH](https://qrz.com/db/KC1DDH) | Arborway medical tent | Arborway | Medical Station : Centre Street | in the middle of Arborway just north of Centre Street |
