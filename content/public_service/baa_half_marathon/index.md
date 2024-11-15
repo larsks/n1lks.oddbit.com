@@ -19,4 +19,8 @@ title: BAA Half Marathon
 
 ## Amateur radio information
 
-- 2024 Team captain Brett Smith, [AB1RL](https://www.qrz.com/db/AB1RL), <ab1rl@brettcsmith.org>.
+### 2024
+
+- Team captain Brett Smith, [AB1RL](https://www.qrz.com/db/AB1RL), <ab1rl@brettcsmith.org>.
+- [Assignments](./2024/assignments/)
+- [Incident radio communications plan](./2024/ics.pdf)
