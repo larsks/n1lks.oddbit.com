@@ -31,7 +31,13 @@ make_toc: true
 
 - December 2024 [Happy Holidays Half Marathon][hhh]
 
-  It's a good thing I packed my TM-V71A, because I was just a bit too far away from the repeater for the HT. I set up the mobile as a cross-band repeater and it worked great. You can find some pictures from the event [here](https://photos.google.com/album/AF1QipOdTIKuRMeSPWXmk9raMrLtjzntuqLiUOIQNPTQ).
+  I was stationed at Checkpoint 1, the intersection of Thatcher Rd and Farm Lane (some sort of private drive).
+
+  It's a good thing I packed my TM-V71A, because I was just a bit too far away from the repeater for the HT. I set up the mobile as a cross-band repeater and it worked great.
+
+  You can find some pictures from the event [here](https://photos.google.com/album/AF1QipOdTIKuRMeSPWXmk9raMrLtjzntuqLiUOIQNPTQ).
+
+  ![Picture of runners along Thatcher Rd](happy_holidays_half_marathon/2024/runners.jpg)
 
 ## Public service opportunities
 
@@ -52,6 +58,8 @@ The following events have in the past asked for the help of amateur radio volunt
 - [Ocean View Half Marathon](https://www.yukanrun.com/oceanview-half-marathon-5k) in November (volunteer radio service organized by [CAARA])
 
 - [Happy Holidays Half Marathon][hhh] in December (volunteer radio service organized by [CAARA])
+
+  I have collected some information [here](happy_holidays_half_marathon) for amateur radio volunteers.
 
 [baa]: https://www.baa.org/races/boston-marathon/volunteer
 [baystate]: https://www.baystatemarathon.com/
