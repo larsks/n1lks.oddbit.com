@@ -31,6 +31,8 @@ make_toc: true
 
 - December 2024 [Happy Holidays Half Marathon][hhh]
 
+  It's a good thing I packed my TM-V71A, because I was just a bit too far away from the repeater for the HT. I set up the mobile as a cross-band repeater and it worked great. You can find some pictures from the event [here](https://photos.google.com/album/AF1QipOdTIKuRMeSPWXmk9raMrLtjzntuqLiUOIQNPTQ).
+
 ## Public service opportunities
 
 The following events have in the past asked for the help of amateur radio volunteers. Announcements are often made to the various club mailing lists when an event is actively looking for volunteer assistance.
