@@ -6,25 +6,25 @@ title: Happy Holidays Half Marathon
 
 ### Primary repeater
 
-| Name          | Rx Frequency  | Offset?   | Tx Frequency  | Tone      | Description                            |
-| ------------- | ------------  | --------  | ------------  | -------   | -------------------------------------- |
-| W1GLO UHF     | 443.700       | +5.0 Mhz  | 448.700       | 107.2     | W1GLO UHF Gloucester                   |
+| Name      | Rx Frequency | Offset   | Tx Frequency | Tone  | Description          |
+| --------- | ------------ | -------- | ------------ | ----- | -------------------- |
+| W1GLO UHF | 443.700      | +5.0 Mhz | 448.700      | 107.2 | W1GLO UHF Gloucester |
 
 ### Backup repeater
 
-| Name          | Rx Frequency  | Offset?   | Tx Frequency  | Tone      | Description                            |
-| ------------- | ------------  | --------  | ------------  | -------   | -------------------------------------- |
-| W1GLO UHF     | 443.700       | +5.0 Mhz  | 448.700       | 107.2     | W1GLO UHF Gloucester                   |
+| Name      | Rx Frequency | Offset   | Tx Frequency | Tone  | Description          |
+| --------- | ------------ | -------- | ------------ | ----- | -------------------- |
+| W1GLO VHF | 145.130      | -0.6 Mhz | 144.530      | 107.2 | W1GLO VHF Gloucester |
 
 ### Alternative backups
 
 Alternatives if the W1GLO repeaters aren't working
 
-| Name          | Rx Frequency  | Offset?   | Tx Frequency  | Tone      | Description                            |
-| ------------- | ------------  | --------  | ------------  | -------   | -------------------------------------- |
-| TOPSFIELD     | 147.285       | +0.6 Mhz  | 147.885       | 100.0     | Topsfield                              |
-| W NEWBURY     | 146.625       | -0.6 Mhz  | 146.025       | 131.8     | West Newbury                           |
-| IPSWICH       | 145.490       | -0.6 Mhz  | 144.890       | 131.8     | Ipswich                                |
+| Name      | Rx Frequency | Offset   | Tx Frequency | Tone  | Description  |
+| --------- | ------------ | -------- | ------------ | ----- | ------------ |
+| TOPSFIELD | 147.285      | +0.6 Mhz | 147.885      | 100.0 | Topsfield    |
+| W NEWBURY | 146.625      | -0.6 Mhz | 146.025      | 131.8 | West Newbury |
+| IPSWICH   | 145.490      | -0.6 Mhz | 144.890      | 131.8 | Ipswich      |
 
 ## Course Maps
 
