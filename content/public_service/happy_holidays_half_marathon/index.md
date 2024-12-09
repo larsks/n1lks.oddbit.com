@@ -6,13 +6,13 @@ title: Happy Holidays Half Marathon
 
 ### Primary repeater
 
-| Name          | Rx Frequency  | Offset?   | Tx Frequency  | Tone      | Description                            |
+| Name          | Rx Frequency  | Offset    | Tx Frequency  | Tone      | Description                            |
 | ------------- | ------------  | --------  | ------------  | -------   | -------------------------------------- |
 | W1GLO UHF     | 443.700       | +5.0 Mhz  | 448.700       | 107.2     | W1GLO UHF Gloucester                   |
 
 ### Backup repeater
 
-| Name          | Rx Frequency  | Offset?   | Tx Frequency  | Tone      | Description                            |
+| Name          | Rx Frequency  | Offset    | Tx Frequency  | Tone      | Description                            |
 | ------------- | ------------  | --------  | ------------  | -------   | -------------------------------------- |
 | W1GLO VHF     | 145.130       | -0.6 Mhz  | 144.530       | 107.2     | W1GLO UHF Gloucester                   |
 
@@ -20,7 +20,7 @@ title: Happy Holidays Half Marathon
 
 Alternatives if the W1GLO repeaters aren't working
 
-| Name          | Rx Frequency  | Offset?   | Tx Frequency  | Tone      | Description                            |
+| Name          | Rx Frequency  | Offset    | Tx Frequency  | Tone      | Description                            |
 | ------------- | ------------  | --------  | ------------  | -------   | -------------------------------------- |
 | TOPSFIELD     | 147.285       | +0.6 Mhz  | 147.885       | 100.0     | Topsfield                              |
 | W NEWBURY     | 146.625       | -0.6 Mhz  | 146.025       | 131.8     | West Newbury                           |
