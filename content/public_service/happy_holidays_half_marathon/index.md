@@ -14,7 +14,7 @@ title: Happy Holidays Half Marathon
 
 | Name          | Rx Frequency  | Offset?   | Tx Frequency  | Tone      | Description                            |
 | ------------- | ------------  | --------  | ------------  | -------   | -------------------------------------- |
-| W1GLO UHF     | 443.700       | +5.0 Mhz  | 448.700       | 107.2     | W1GLO UHF Gloucester                   |
+| W1GLO VHF     | 145.130       | -0.6 Mhz  | 144.530       | 107.2     | W1GLO UHF Gloucester                   |
 
 ### Alternative backups
 
