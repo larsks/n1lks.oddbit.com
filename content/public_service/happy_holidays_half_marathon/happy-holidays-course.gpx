@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
-  <time>2024-12-09T00:04:28.762Z</time>
-  <bounds minlat="42.620740000" minlon="-70.632570000" maxlat="42.659240000" maxlon="-70.592750000"/>
+  <time>2024-12-10T14:19:55.240Z</time>
+  <bounds minlat="42.620736300" minlon="-70.660618500" maxlat="42.659240000" maxlon="-70.592750000"/>
   <wpt lat="42.632165000" lon="-70.619789100">
     <ele>0.000</ele>
-    <name>Checkpoint 1</name>
-    <cmt>&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqKt-0LQYSE8mw9Kf7ZqxTwn3ZQcss8Pp-PGUsJwvJSJO0H-nBlEQv2wjwg8lv2a1VoKVwNoxSZ2tWqDr_gjYN0UW6z7awV9GFuebHijZxK3sOUzzH0y6GZLRZjcLrYs56eJjJmqX9leJ-SB4Y1mM6aTdis0rVRxLLPMVRKAaW9T7FBNrFvoiG-xHzptxKCn2mDPv3fAZvSeTHeSiOh2bZ9yao9-GkWfvXAOnvUphsTVIUlLsAa05CEA9A?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;This is a private drive with ample parking for two vehicles. A 5W HT may not be sufficient at this location.</cmt>
-    <desc>&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqKt-0LQYSE8mw9Kf7ZqxTwn3ZQcss8Pp-PGUsJwvJSJO0H-nBlEQv2wjwg8lv2a1VoKVwNoxSZ2tWqDr_gjYN0UW6z7awV9GFuebHijZxK3sOUzzH0y6GZLRZjcLrYs56eJjJmqX9leJ-SB4Y1mM6aTdis0rVRxLLPMVRKAaW9T7FBNrFvoiG-xHzptxKCn2mDPv3fAZvSeTHeSiOh2bZ9yao9-GkWfvXAOnvUphsTVIUlLsAa05CEA9A?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;This is a private drive with ample parking for two vehicles. A 5W HT may not be sufficient at this location.</desc>
+    <name>CHKPT1</name>
+    <cmt>&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoYecDV3oTvBxs1wHheOJkSBY2_d8rFxgJ61MKAyYzumxjQg12AYJGmCLMKvcoqn8d-ymJzzCy6I4xRY85-oqx89lAXtTO9-_e1G9-L2IY1x3ne3K7enHQCIcNqGGw-Nxok5BCI8gjxeEGU2x-mNHEVwK_VnGfUhdioEDLVEVLmAb-FMm796jw-xM86NrXmdZLPfuemPuYSudCFZ41PGbby729Z6UzCvwtavWwgo4k4RKyid0PH8BoGMIo?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;longname: Checkpoint 1&lt;br&gt;description: This is a private drive with ample parking for two vehicles. A 5W HT may not be sufficient at this location.</cmt>
+    <desc>&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoYecDV3oTvBxs1wHheOJkSBY2_d8rFxgJ61MKAyYzumxjQg12AYJGmCLMKvcoqn8d-ymJzzCy6I4xRY85-oqx89lAXtTO9-_e1G9-L2IY1x3ne3K7enHQCIcNqGGw-Nxok5BCI8gjxeEGU2x-mNHEVwK_VnGfUhdioEDLVEVLmAb-FMm796jw-xM86NrXmdZLPfuemPuYSudCFZ41PGbby729Z6UzCvwtavWwgo4k4RKyid0PH8BoGMIo?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;longname: Checkpoint 1&lt;br&gt;description: This is a private drive with ample parking for two vehicles. A 5W HT may not be sufficient at this location.</desc>
   </wpt>
   <wpt lat="42.639645300" lon="-70.603324000">
     <ele>0.000</ele>
-    <name>Checkpoint 2</name>
-    <cmt>Checkpoint 2</cmt>
-    <desc>Checkpoint 2</desc>
+    <name>CHKPT2</name>
+    <cmt>longname: Checkpoint 2&lt;br&gt;description:</cmt>
+    <desc>longname: Checkpoint 2&lt;br&gt;description:</desc>
   </wpt>
   <wpt lat="42.641418900" lon="-70.596324800">
     <ele>0.000</ele>
-    <name>Checkpoint 3</name>
-    <cmt>Checkpoint 3</cmt>
-    <desc>Checkpoint 3</desc>
+    <name>CHKPT3</name>
+    <cmt>longname: Checkpoint 3&lt;br&gt;description:</cmt>
+    <desc>longname: Checkpoint 3&lt;br&gt;description:</desc>
   </wpt>
   <wpt lat="42.647984400" lon="-70.598700400">
     <ele>0.000</ele>
-    <name>Checkpoint 4</name>
-    <cmt>Checkpoint 4</cmt>
-    <desc>Checkpoint 4</desc>
+    <name>CHKPT4</name>
+    <cmt>longname: Checkpoint 4&lt;br&gt;description:</cmt>
+    <desc>longname: Checkpoint 4&lt;br&gt;description:</desc>
   </wpt>
   <wpt lat="42.653911000" lon="-70.600047000">
     <ele>0.000</ele>
-    <name>Checkpoint 5</name>
-    <cmt>Checkpoint 5</cmt>
-    <desc>Checkpoint 5</desc>
+    <name>CHKPT5</name>
+    <cmt>longname: Checkpoint 5&lt;br&gt;description:</cmt>
+    <desc>longname: Checkpoint 5&lt;br&gt;description:</desc>
   </wpt>
   <wpt lat="42.658031200" lon="-70.607044800">
     <ele>0.000</ele>
-    <name>Checkpoint 6</name>
-    <cmt>Checkpoint 6</cmt>
-    <desc>Checkpoint 6</desc>
+    <name>CHKPT6</name>
+    <cmt>longname: Checkpoint 5&lt;br&gt;description:</cmt>
+    <desc>longname: Checkpoint 5&lt;br&gt;description:</desc>
   </wpt>
   <wpt lat="42.620760000" lon="-70.632380000">
     <ele>0.000</ele>
@@ -50,8 +50,20 @@
     <cmt>Finish</cmt>
     <desc>Finish</desc>
   </wpt>
+  <wpt lat="42.624557400" lon="-70.660618500">
+    <ele>0.000</ele>
+    <name>W1GLO</name>
+    <cmt>longname: W1GLO Repeaters&lt;br&gt;description: 2m: 145.130 Rx/144.530 Tx/170.2 PL&lt;br&gt;70cm: 443.700 Rx/448.700 Tx/107.2 PL</cmt>
+    <desc>longname: W1GLO Repeaters&lt;br&gt;description: 2m: 145.130 Rx/144.530 Tx/170.2 PL&lt;br&gt;70cm: 443.700 Rx/448.700 Tx/107.2 PL</desc>
+  </wpt>
+  <wpt lat="42.620736300" lon="-70.632089200">
+    <ele>0.000</ele>
+    <name>Good Harbor Beach</name>
+    <cmt>Good Harbor Beach</cmt>
+    <desc>Good Harbor Beach</desc>
+  </wpt>
   <trk>
-    <name>Happy Holidays Course</name>
+    <name>Course</name>
     <trkseg>
       <trkpt lat="42.620760000" lon="-70.632380000">
         <ele>0.000</ele>

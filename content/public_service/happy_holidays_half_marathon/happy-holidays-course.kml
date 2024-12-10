@@ -43,6 +43,15 @@
         <styleUrl>#icon-123-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1529-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
     <Style id="icon-1899-0288D1-labelson">
       <IconStyle>
         <color>ffd18802</color>
@@ -53,7 +62,7 @@
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
     </Style>
-    <Style id="icon-1899-0288D1-labelson-nodesc">
+    <Style id="icon-1899-0288D1-nodesc-normal">
       <IconStyle>
         <color>ffd18802</color>
         <scale>1</scale>
@@ -62,10 +71,39 @@
         </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="icon-61-nodesc-normal">
       <IconStyle>
         <scale>1.1</scale>
@@ -131,12 +169,18 @@
     <Folder>
       <name>Checkpoints</name>
       <Placemark>
-        <name>Checkpoint 1</name>
-        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqKt-0LQYSE8mw9Kf7ZqxTwn3ZQcss8Pp-PGUsJwvJSJO0H-nBlEQv2wjwg8lv2a1VoKVwNoxSZ2tWqDr_gjYN0UW6z7awV9GFuebHijZxK3sOUzzH0y6GZLRZjcLrYs56eJjJmqX9leJ-SB4Y1mM6aTdis0rVRxLLPMVRKAaW9T7FBNrFvoiG-xHzptxKCn2mDPv3fAZvSeTHeSiOh2bZ9yao9-GkWfvXAOnvUphsTVIUlLsAa05CEA9A?authuser=0&fife=s16383" height="200" width="auto" /><br><br>This is a private drive with ample parking for two vehicles. A 5W HT may not be sufficient at this location.]]></description>
+        <name>CHKPT1</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoYecDV3oTvBxs1wHheOJkSBY2_d8rFxgJ61MKAyYzumxjQg12AYJGmCLMKvcoqn8d-ymJzzCy6I4xRY85-oqx89lAXtTO9-_e1G9-L2IY1x3ne3K7enHQCIcNqGGw-Nxok5BCI8gjxeEGU2x-mNHEVwK_VnGfUhdioEDLVEVLmAb-FMm796jw-xM86NrXmdZLPfuemPuYSudCFZ41PGbby729Z6UzCvwtavWwgo4k4RKyid0PH8BoGMIo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>longname: Checkpoint 1<br>description: This is a private drive with ample parking for two vehicles. A 5W HT may not be sufficient at this location.]]></description>
         <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
         <ExtendedData>
+          <Data name="longname">
+            <value>Checkpoint 1</value>
+          </Data>
+          <Data name="description">
+            <value>This is a private drive with ample parking for two vehicles. A 5W HT may not be sufficient at this location.</value>
+          </Data>
           <Data name="gx_media_links">
-            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqKt-0LQYSE8mw9Kf7ZqxTwn3ZQcss8Pp-PGUsJwvJSJO0H-nBlEQv2wjwg8lv2a1VoKVwNoxSZ2tWqDr_gjYN0UW6z7awV9GFuebHijZxK3sOUzzH0y6GZLRZjcLrYs56eJjJmqX9leJ-SB4Y1mM6aTdis0rVRxLLPMVRKAaW9T7FBNrFvoiG-xHzptxKCn2mDPv3fAZvSeTHeSiOh2bZ9yao9-GkWfvXAOnvUphsTVIUlLsAa05CEA9A?authuser=0&fife=s16383]]></value>
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkoYecDV3oTvBxs1wHheOJkSBY2_d8rFxgJ61MKAyYzumxjQg12AYJGmCLMKvcoqn8d-ymJzzCy6I4xRY85-oqx89lAXtTO9-_e1G9-L2IY1x3ne3K7enHQCIcNqGGw-Nxok5BCI8gjxeEGU2x-mNHEVwK_VnGfUhdioEDLVEVLmAb-FMm796jw-xM86NrXmdZLPfuemPuYSudCFZ41PGbby729Z6UzCvwtavWwgo4k4RKyid0PH8BoGMIo?authuser=0&fife=s16383]]></value>
           </Data>
         </ExtendedData>
         <Point>
@@ -146,8 +190,17 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Checkpoint 2</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <name>CHKPT2</name>
+        <description><![CDATA[longname: Checkpoint 2<br>description: ]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="longname">
+            <value>Checkpoint 2</value>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             -70.603324,42.6396453,0
@@ -155,8 +208,17 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Checkpoint 3</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <name>CHKPT3</name>
+        <description><![CDATA[longname: Checkpoint 3<br>description: ]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="longname">
+            <value>Checkpoint 3</value>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             -70.5963248,42.6414189,0
@@ -164,8 +226,17 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Checkpoint 4</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <name>CHKPT4</name>
+        <description><![CDATA[longname: Checkpoint 4<br>description: ]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="longname">
+            <value>Checkpoint 4</value>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             -70.5987004,42.6479844,0
@@ -173,8 +244,17 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Checkpoint 5</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <name>CHKPT5</name>
+        <description><![CDATA[longname: Checkpoint 5<br>description: ]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="longname">
+            <value>Checkpoint 5</value>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             -70.600047,42.653911,0
@@ -182,8 +262,17 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Checkpoint 6</name>
-        <styleUrl>#icon-1899-0288D1-labelson-nodesc</styleUrl>
+        <name>CHKPT6</name>
+        <description><![CDATA[longname: Checkpoint 5<br>description: ]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="longname">
+            <value>Checkpoint 5</value>
+          </Data>
+          <Data name="description">
+            <value/>
+          </Data>
+        </ExtendedData>
         <Point>
           <coordinates>
             -70.6070448,42.6580312,0
@@ -212,7 +301,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Happy Holidays Course</name>
+        <name>Course</name>
         <description><![CDATA[Statistics computed from imported data<br><br>Distance: 13.4 miles]]></description>
         <styleUrl>#line-0288D1-5000</styleUrl>
         <LineString>
@@ -850,6 +939,40 @@
             -70.63238,42.62074,0
           </coordinates>
         </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Repeaters</name>
+      <Placemark>
+        <name>W1GLO</name>
+        <description><![CDATA[longname: W1GLO Repeaters<br>description: 2m: 145.130 Rx/144.530 Tx/170.2 PL<br>70cm: 443.700 Rx/448.700 Tx/107.2 PL]]></description>
+        <styleUrl>#icon-1529-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="longname">
+            <value>W1GLO Repeaters</value>
+          </Data>
+          <Data name="description">
+            <value>2m: 145.130 Rx/144.530 Tx/170.2 PL
+70cm: 443.700 Rx/448.700 Tx/107.2 PL</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -70.6606185,42.6245574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Landmarks</name>
+      <Placemark>
+        <name>Good Harbor Beach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -70.6320892,42.6207363,0
+          </coordinates>
+        </Point>
       </Placemark>
     </Folder>
   </Document>

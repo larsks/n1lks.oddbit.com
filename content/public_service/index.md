@@ -75,6 +75,7 @@ The following events have in the past asked for the help of amateur radio volunt
 - The [Eastern Massachusetts ARRL](https://ema.arrl.org/) website sometimes has information about upcoming volunteer opportunities
 
 [caara]: https://sites.google.com/view/caararaces/home
+
 ## Articles and documentation about amateur radio public service
 
 - [Ham Radio Boston](https://www.hamradioboston.org/), organizes amateur radio volunteers for the Boston Marathon. See in particular the [Docs & Videos](https://www.hamradioboston.org/docs-videos) section.
