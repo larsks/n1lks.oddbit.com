@@ -5,8 +5,7 @@ make_toc: true
 
 ## My volunteer activities
 
-- September 2024 [Cycle for
-  Shelter](https://give.emmausinc.org/event/2024-cycle-for-shelter/e570321).
+- September 2024 [Cycle for Shelter](https://give.emmausinc.org/event/2024-cycle-for-shelter/e570321).
 
   I was stationed at the [Boxford Second Congregational Church][boxford]. You can see a few photos of my station
   [here](https://photos.app.goo.gl/BknbK9RmPYQ6ZwGP6). I've put together a map of the courses and rest stops [here](https://www.google.com/maps/d/edit?mid=1AVcfy-LazXzyhn2wXhymyljLHbaF0zA&usp=sharing).
@@ -21,7 +20,7 @@ make_toc: true
 
 - November 2024 [BAA Half Marathon][baahalf]
 
-  Up at 4:30 in the morning for a 5am bike ride from Belmont to Franklin Park. It was a chilly 30°F when I left, but warmed up later in the day. I was at water station 7, just outside the start/finish line. Other than checking in, checking out, and roll call, there wasn't much to do on the radio so I spent my time helping the water volunteers fill cups, clean up, etc. 
+  Up at 4:30 in the morning for a 5am bike ride from Belmont to Franklin Park. It was a chilly 30°F when I left, but warmed up later in the day. I was at water station 7, just outside the start/finish line. Other than checking in, checking out, and roll call, there wasn't much to do on the radio so I spent my time helping the water volunteers fill cups, clean up, etc.
 
   You can find some pictures from the event [here](https://photos.app.goo.gl/oQaxifhZ3dft7wwy6).
 
@@ -52,7 +51,7 @@ The following events have in the past asked for the help of amateur radio volunt
   I have collected some information [here](baystate_marathon) for volunteers at the Baystate Marathon. Much of this material originated with Terry M. Stader, [KA8SCP], who helps organize amateur radio volunteer service at this event.
 
 - [BAA Half Marathon][baahalf] in November
- 
+
   I have collected some information about the BAA Half Marathon [here](baa_half_marathon).
 
 - [Ocean View Half Marathon](https://www.yukanrun.com/oceanview-half-marathon-5k) in November (volunteer radio service organized by [CAARA])
@@ -75,6 +74,7 @@ The following events have in the past asked for the help of amateur radio volunt
 - The [Eastern Massachusetts ARRL](https://ema.arrl.org/) website sometimes has information about upcoming volunteer opportunities
 
 [caara]: https://sites.google.com/view/caararaces/home
+
 ## Articles and documentation about amateur radio public service
 
 - [Ham Radio Boston](https://www.hamradioboston.org/), organizes amateur radio volunteers for the Boston Marathon. See in particular the [Docs & Videos](https://www.hamradioboston.org/docs-videos) section.
