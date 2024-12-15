@@ -42,4 +42,3 @@ title: Linux packet radio software
   Common Message Server (CMS), using either a VHF/UHF packet or internet
   connection. WoAD also supports peer-to-peer (P2P) connections to other
   Winlink P2P-capable clients, again through a packet or internet connection.
-

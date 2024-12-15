@@ -44,12 +44,11 @@ title: Packet radio hardware projects
   This is the new digiPi HAT for ham radio digi modes from a raspberry Pi. The
   board is desgned to be topped on a Raspberry Pi 4 or 5, on which you could
   work ham radio digital modes remotely. The new digiPi HAT is compatible with
-  KM6LYW’s digiPi image. 
+  KM6LYW’s digiPi image.
 
 - N7EBB [Radio interface board](https://n7ebb.org/)
 
 - [DRA-Pi-Zero](https://www.masterscommunications.com/products/radio-adapter/dra/drapizero.html)
-
 
 - [DigiRig](https://digirig.net/)
 

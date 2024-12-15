@@ -17,4 +17,3 @@ Performs an explicit comms check before the event starts: call each station usin
 ## Perform periodic roll calls during the event
 
 Periodic roll calls help identify problems (dead batteries, volume knob got jostled) and provide everyone with confidence that comms are still working as expected.
-
