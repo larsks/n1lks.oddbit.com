@@ -12,11 +12,11 @@ NB: The following table makes use of non-breaking spaces (U+00A0) in order to pr
 in the rendered document.
 -->
 
-| Name          | Rx Frequency  | Offset?   | Tx Frequency  | Tone      | Description                            |
-| ------------- | ------------  | --------  | ------------  | -------   | -------------------------------------- |
-| BAYSTATE1     | 147.495 MHz   | SIMPLEX   | 147.495 MHz   | PL 74.4   | water stop/course, NCS and Family Info |
-| BAYSTATE2     | 147.525 MHz   | SIMPLEX   | 147.525 MHz   | PL 74.4   | Tsongas Circle units                   |
-| PRE/POST RACE | 146.955 Mhz   | -600 KHz  | 146.355 Mhz   | PL 74.4   | [WESTFORD MA WB1GOF repeater][wb1gof]  |
+| Name          | Rx Frequency | Offset?  | Tx Frequency | Tone    | Description                            |
+| ------------- | ------------ | -------- | ------------ | ------- | -------------------------------------- |
+| BAYSTATE1     | 147.495 MHz  | SIMPLEX  | 147.495 MHz  | PL 74.4 | water stop/course, NCS and Family Info |
+| BAYSTATE2     | 147.525 MHz  | SIMPLEX  | 147.525 MHz  | PL 74.4 | Tsongas Circle units                   |
+| PRE/POST RACE | 146.955 Mhz  | -600 KHz | 146.355 Mhz  | PL 74.4 | [WESTFORD MA WB1GOF repeater][wb1gof]  |
 
 [wb1gof]: http://www.wb1gof.org/repeaters/
 
@@ -72,16 +72,16 @@ Parking will likely be available in the immediate vicinity of each water stop.
 ## Where can I pick up volunteer vests?
 
 - **Tsongas Circle locations** – The Family Info table should have blue
-volunteer vests. Feel free to bring your own if you have one. Please return
-them to him at the Family Info table when you are clearing from your
-participation. Most of you at the Tsongas Circle area will be winding down
-between 2 and 3 PM. Remember you need to be parked and in the vicinity by 6:30
-AM because roads will be shut down by 7 AM. Park in Lot B or C.
+  volunteer vests. Feel free to bring your own if you have one. Please return
+  them to him at the Family Info table when you are clearing from your
+  participation. Most of you at the Tsongas Circle area will be winding down
+  between 2 and 3 PM. Remember you need to be parked and in the vicinity by 6:30
+  AM because roads will be shut down by 7 AM. Park in Lot B or C.
 
 - **Water stop and course volunteers** - If you need vests and orange placards,
-please stop at the foot of the Rourke Bridge in the Bowlero parking lot ([647
-Pawtucket Blvd, Lowell MA 01854][ucc]) and pick them up. We will be there from
-6:30 AM on.
+  please stop at the foot of the Rourke Bridge in the Bowlero parking lot ([647
+  Pawtucket Blvd, Lowell MA 01854][ucc]) and pick them up. We will be there from
+  6:30 AM on.
 
 [ucc]: https://maps.app.goo.gl/TTf5UuE5KQY6Htxo9
 
