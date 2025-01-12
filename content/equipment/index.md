@@ -11,7 +11,7 @@ My primary radio is a [Kenmore TM-V71A][tm-v71a], attached via a [Digirig] to a 
 
 ## In the field
 
-When operating at a public service event for which I will need a mobile radio, I use a [Yaesu FTM-6000R][ftm] attached to an [Ed Fong DJB-2 roll-up j-pole antenna][djb-2] that I deploy using a tripod and a PVC mast.
+When operating at a public service event for which I will need a mobile radio, I use a second TM-V71A or a [Yaesu FTM-6000R][ftm] attached to an [Ed Fong DJB-2 roll-up j-pole antenna][djb-2] that I deploy using a tripod and a PVC mast.
 
 [ftm]: https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=249&encProdID=3BEE472B7584ACA7C6A71F41B8ADCEC9&DivisionID=65&isArchived=0
 [djb-2]: https://edsantennas.weebly.com/
