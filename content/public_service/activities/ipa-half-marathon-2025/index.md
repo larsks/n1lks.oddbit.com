@@ -6,4 +6,6 @@ tags: post
 
 I was stationed checkpoint 2 at the intersection of Scotland Rd. and Scotland Hgts. in Newbury, MA.
 
+<!-- cut -->
+
 ![Some lovely black angus cattle](cows.jpg)

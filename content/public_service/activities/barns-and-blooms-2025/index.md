@@ -8,4 +8,6 @@ I was stationed at Checkpoint 2 at the corner of Essex Rd. and Northgate Rd. in 
 
 [my map]: https://www.google.com/maps/d/u/0/edit?mid=1bx23XuFfZqsWe1sWOqBTNREUmYH0R8U&usp=sharing
 
+<!-- cut -->
+
 ![A picture of my station](station.jpg)
