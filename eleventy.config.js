@@ -29,6 +29,8 @@ export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("content/**/*.txt");
   eleventyConfig.addPassthroughCopy("content/**/*.gpx");
 
+  eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
   return {
     dir: {
       input: "content"
