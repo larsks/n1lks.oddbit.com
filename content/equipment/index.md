@@ -4,17 +4,19 @@ title: My radios
 
 ## At home
 
-My primary radio is a [Kenmore TM-V71A][tm-v71a], attached via a [Digirig] to a Raspberry Pi for packet operation.
+My primary radio is a [Kenwood TM-V71A], attached via a [Digirig] to a Raspberry Pi for packet operation. I have a [Yaesu FT-891] that I use occasionally for [POTA] activations.
 
-[tm-v71a]: https://www.kenwood.com/usa/com/amateur/tm-v71a/
+[kenwood tm-v71a]: https://www.kenwood.com/usa/com/amateur/tm-v71a/
 [digirig]: https://digirig.net/store/
+[yaesu ft-891]: https://www.yaesu.com/product-detail.aspx?Model=FT-891&CatName=HF%20Transceivers/Amplifiers
+[pota]: https://parksontheair.com/index.html
 
 ## In the field
 
-When operating at a public service event for which I will need a mobile radio, I use a second TM-V71A or a [Yaesu FTM-6000R][ftm] attached to an [Ed Fong DJB-2 roll-up j-pole antenna][djb-2] that I deploy using a tripod and a PVC mast.
+My typical setup for public service events is a Kenwood TM-V71A in my van configured as a repeater, while I wear an HT (with a [very small antenna]) on my chest. If I need to use the mobile radio and I can't use the van (either I'm stationed somewhere that I can't park, or if I bike to the event) I will use an [Ed Fong DBJ-2] roll-up antenna, either strung up in a tree or mounted on a tripod and a PVC mast.
 
-[ftm]: https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&ProdCatID=249&encProdID=3BEE472B7584ACA7C6A71F41B8ADCEC9&DivisionID=65&isArchived=0
-[djb-2]: https://edsantennas.weebly.com/
+[very small antenna]: https://a.co/d/4bKmNXh
+[ed fong dbj-2]: https://edsantennas.weebly.com/
 
 ![Mobile radio deployed on a folding table with atenna mast on a tripod in the background](mobile-station.jpg)
 
