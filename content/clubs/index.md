@@ -15,10 +15,10 @@ This is not an exhaustive list of organizations; these are just ones that I have
 
 ## Other associations
 
-- [Waltham Amateur Radio Association](https://walthamara.org/)
-- [Port City Amateur Radio Club (PCARC)](https://w1wqm.org/repeaters/)
-- [North Shore Radio Association](https://www.nsradio.org/)
-- [New England Sci-Tech Amateur Radio Society](https://nescitech.org/stars)
-- [Police Amateur Radio Team (PART) of Westford](http://www.wb1gof.org/)
-- [MIT Radio Society (W1XM)](https://w1mx.mit.edu/)
 - [Cape Anne Amateur Radio Association](https://caara.net/main/)
+- [MIT Radio Society (W1XM)](https://w1mx.mit.edu/)
+- [New England Sci-Tech Amateur Radio Society](https://nescitech.org/stars)
+- [North Shore Radio Association](https://www.nsradio.org/)
+- [Police Amateur Radio Team (PART) of Westford](http://www.wb1gof.org/)
+- [Port City Amateur Radio Club (PCARC)](https://w1wqm.org/repeaters/)
+- [Waltham Amateur Radio Association](https://walthamara.org/)
