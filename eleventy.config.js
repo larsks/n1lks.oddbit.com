@@ -17,6 +17,10 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginTOC, {
     ul: true
   });
+  eleventyConfig.setFrontMatterParsingOptions({
+      excerpt: true,
+      excerpt_separator: "<!-- cut -->",
+  });
 
   eleventyConfig.addPassthroughCopy("content/**/*.kmz");
   eleventyConfig.addPassthroughCopy("content/**/*.png");
