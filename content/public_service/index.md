@@ -23,6 +23,8 @@ I'm keeping a log of my public service activities [here](activities/).
 
   [ka8scp]: http://ka8scp.wb1gof.net/
 
+- [Head of the Charles Regatta](https://hocr.org/) in October
+
 - [BAA Half Marathon](https://www.baa.org/races/boston-half) in November
 
   I have collected some information about the BAA Half Marathon [here](baa_half_marathon).
