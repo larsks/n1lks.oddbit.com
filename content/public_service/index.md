@@ -31,6 +31,10 @@ I'm keeping a log of my public service activities [here](activities/).
 
 - The [Cape Anne Amateur Radio Association](https://caara.net/main/) provides [race support](https://sites.google.com/view/caararaces/home) for a number of events between May and December (primarily half marathons around Cape Ann).
 
+  The CAARA "[Guidelines for Volunteers]" document is good reading if you're interested in participating.
+
+  [guidelines for volunteers]: caara-guidelines-for-volunteers.pdf
+
 ### More information on opportunities
 
 - The [Boston Amateur Radio Club public service page](https://www.barc.org/public-service/)
