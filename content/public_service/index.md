@@ -1,5 +1,6 @@
 ---
 title: Amateur radio public service
+shortTitle: Public service
 make_toc: true
 tags: page
 weight: 1

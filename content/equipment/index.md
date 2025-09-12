@@ -1,5 +1,6 @@
 ---
 title: My radio equipment
+shortTitle: Equipment
 tags: page
 weight: 3
 ---
