@@ -3,9 +3,8 @@ import anchorPlugin from 'markdown-it-anchor';
 import pluginTOC from 'eleventy-plugin-toc';
 
 export default function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("./bundle.css");
-  eleventyConfig.addWatchTarget("./custom.css");
-  eleventyConfig.addWatchTarget("./style.css");
+  eleventyConfig.addWatchTarget("./css/custom.css");
+  eleventyConfig.addWatchTarget("./css/style.css");
   eleventyConfig.addPlugin(markdownPlugin, {
     options: {
       preset: "commonmark",
