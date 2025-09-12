@@ -58,7 +58,20 @@ function doNotPublishDrafts(eleventyConfig) {
 	});
 }
 
+function exposeRunMode(eleventyConfig) {
+	let currentRunMode = "build";
+
+	eleventyConfig.on("eleventy.before", ({ runMode }) => {
+		currentRunMode = runMode;
+	});
+
+	// Make runMode available to templates
+	eleventyConfig.addGlobalData("runMode", () => currentRunMode);
+}
+
 export default function (eleventyConfig) {
+  exposeRunMode(eleventyConfig);
+
 	eleventyConfig.addWatchTarget("./css/custom.css");
 	eleventyConfig.addWatchTarget("./css/style.css");
 	eleventyConfig.addPlugin(markdownPlugin, {
