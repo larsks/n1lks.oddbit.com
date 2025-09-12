@@ -22,6 +22,7 @@ export default function(eleventyConfig) {
       excerpt_separator: "<!-- cut -->",
   });
 
+  // Files that should be copied into the rendered content directory.
   eleventyConfig.addPassthroughCopy("content/**/*.kmz");
   eleventyConfig.addPassthroughCopy("content/**/*.png");
   eleventyConfig.addPassthroughCopy("content/**/*.jpg");
@@ -29,8 +30,13 @@ export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("content/**/*.txt");
   eleventyConfig.addPassthroughCopy("content/**/*.gpx");
 
+  // This shortcode is used in the copyright notice to ensure it always shows
+  // the current year.
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
+  // The weightedItems collection returns a list of pages sorted by their
+  // weight property. This is used to generate the top-of-page navigation and
+  // the menu on the home page.
   eleventyConfig.addCollection('weightedItems', function(collectionApi) {
     return collectionApi.getAll()
       .filter(item => item.data.tags && item.data.tags.includes("page")) // Filter for specific items if needed
