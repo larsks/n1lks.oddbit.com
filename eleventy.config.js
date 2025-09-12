@@ -2,15 +2,6 @@ import markdownPlugin from "@jgarber/eleventy-plugin-markdown";
 import pluginTOC from "eleventy-plugin-toc";
 import anchorPlugin from "markdown-it-anchor";
 
-function shouldHide({ date, draft }) {
-	if (process.env.BUILD_DRAFTS) {
-		return false;
-	}
-	const isDraft = draft;
-	const isPageFromFuture = date && date.getTime() > Date.now();
-	return isDraft || isPageFromFuture;
-}
-
 // Define files that should be copied into the rendered content directory.
 function setupPassthroughCopy(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("content/**/*.kmz");
@@ -23,6 +14,15 @@ function setupPassthroughCopy(eleventyConfig) {
 
 // Do not publish draft or future posts
 function doNotPublishDrafts(eleventyConfig) {
+	const shouldHide = ({ date, draft }) => {
+		if (process.env.BUILD_DRAFTS) {
+			return false;
+		}
+		const isDraft = draft;
+		const isPageFromFuture = date && date.getTime() > Date.now();
+		return isDraft || isPageFromFuture;
+	};
+
 	// When `permalink` is false, the file is not written to disk
 	eleventyConfig.addGlobalData("eleventyComputed.permalink", () => {
 		return (data) => {
@@ -77,11 +77,21 @@ export default function (eleventyConfig) {
 	});
 
 	setupPassthroughCopy(eleventyConfig);
-	doNotPublishDrafts(eleventyConfig);
 
 	// This shortcode is used in the copyright notice to ensure it always shows
 	// the current year.
 	eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
+	// Custom filters for post date filtering
+	eleventyConfig.addFilter("post_is_future", (posts) => {
+		const now = new Date();
+		return posts.filter((post) => post.date > now);
+	});
+
+	eleventyConfig.addFilter("post_is_past", (posts) => {
+		const now = new Date();
+		return posts.filter((post) => post.date <= now);
+	});
 
 	// The weightedItems collection returns a list of pages sorted by their
 	// weight property. This is used to generate the top-of-page navigation and
