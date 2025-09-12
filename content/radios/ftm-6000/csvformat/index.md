@@ -8,8 +8,6 @@ This is a description of the file format expected by Yaesu's ADMS-13 software.
 | ------- | ------- | ------- | --------- | ---------- | ---- | --- | ---- | --------- | ---------- | -------- | ---------- | -------- | ---- | ---- | ------ | ----------- | ------- | ---- |
 | channel | rx freq | tx freq | tx offset | offset dir | mode | tag | name | tone mode | ctcss freq | dcs code | user ctcss | tx power | scan | step | narrow | clock shift | comment | zero |
 
-
-
 1. channel -- this is the channel number, from 1 to 999. There should be 999 lines in your csv file.
 2. rx frequency in MHz, in the form `nnn.nnnn`
 3. tx frequency in MHz, in the form `nnn.nnnn`
@@ -34,7 +32,7 @@ This is a description of the file format expected by Yaesu's ADMS-13 software.
     - `PR FREQ`
     - `PAGER`
 10. ctcss frequency, in the form `nnn.n Hz`
-11. dcs code, in the form `nnn` 
+11. dcs code, in the form `nnn`
 12. user ctcss frequency, in the form `nnn Hz` or `nnnn Hz`
 13. tx power, one of:
     - `HIGH`
@@ -55,7 +53,7 @@ This is a description of the file format expected by Yaesu's ADMS-13 software.
 
 ## Example file
 
-```
+```csv
 1,145.23000,145.23000,0.60000,-RPT,FM,ON,BARC,TONE,88.5 Hz,,,MID,YES,5.0KHz,OFF,OFF,https://www.barc.org/,0
 2,449.72500,449.72500,5.00000,-RPT,FM,ON,MIT,TONE,114.8 Hz,,,MID,YES,12.5KHz,OFF,OFF,https://w1mx.mit.edu/,0
 3,146.04000,146.04000,0.60000,+RPT,FM,ON,WARA-V,TONE,136.5 Hz,,,MID,YES,5.0KHz,OFF,OFF,https://walthamara.org/,0
@@ -66,4 +64,3 @@ This is a description of the file format expected by Yaesu's ADMS-13 software.
 .
 999,,,,,,,,,,,,,,,,,,0
 ```
-

@@ -13,4 +13,3 @@ You can find some pictures from the event [here](https://photos.app.goo.gl/oQaxi
 ![Picture of Cambridge and Boston taken early in the morning from the Mass Ave Bridge](massavebridge.jpg)
 
 ![Picture of volunteers holding out cups of water to runners](waterstop.jpg)
-

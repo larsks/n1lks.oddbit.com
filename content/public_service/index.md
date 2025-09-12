@@ -44,8 +44,6 @@ I'm keeping a log of my public service activities [here](activities/).
 - The [ARRL volunteer opportunities](http://www.arrl.org/volunteer-opportunities) page
 - The [Eastern Massachusetts ARRL](https://ema.arrl.org/) website sometimes has information about upcoming volunteer opportunities
 
-[caara]: https://sites.google.com/view/caararaces/home
-
 ## Articles and documentation about amateur radio public service
 
 - [Ham Radio Boston](https://www.hamradioboston.org/) organizes amateur radio volunteers for the Boston Marathon. See in particular the [Docs & Videos](https://www.hamradioboston.org/docs-videos) section.
