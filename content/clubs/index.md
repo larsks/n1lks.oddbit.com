@@ -1,5 +1,7 @@
 ---
-title: Nearby amateur radio organizations
+title: Radio clubs and associations
+tags: page
+weight: 2
 ---
 
 This is not an exhaustive list of organizations; these are just ones that I have had some sort of personal contact with.

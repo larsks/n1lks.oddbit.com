@@ -1,6 +1,8 @@
 ---
 title: Amateur radio public service
 make_toc: true
+tags: page
+weight: 1
 ---
 
 ## My volunteer activities

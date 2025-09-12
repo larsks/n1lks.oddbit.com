@@ -1,5 +1,7 @@
 ---
-title: My radios
+title: My radio equipment
+tags: page
+weight: 3
 ---
 
 ## At home

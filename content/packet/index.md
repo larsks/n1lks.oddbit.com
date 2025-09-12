@@ -1,5 +1,7 @@
 ---
 title: Packet radio
+tags: page
+weight: 4
 ---
 
 I dabble a little bit with [packet radio communication][packet] under Linux.
