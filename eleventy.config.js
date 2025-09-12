@@ -2,55 +2,27 @@ import markdownPlugin from "@jgarber/eleventy-plugin-markdown";
 import pluginTOC from "eleventy-plugin-toc";
 import anchorPlugin from "markdown-it-anchor";
 
-const shouldHide = ({ date, draft }) => {
+function shouldHide({ date, draft }) {
 	if (process.env.BUILD_DRAFTS) {
 		return false;
 	}
 	const isDraft = draft;
 	const isPageFromFuture = date && date.getTime() > Date.now();
 	return isDraft || isPageFromFuture;
-};
+}
 
-export default function (eleventyConfig) {
-	eleventyConfig.addWatchTarget("./css/custom.css");
-	eleventyConfig.addWatchTarget("./css/style.css");
-	eleventyConfig.addPlugin(markdownPlugin, {
-		options: {
-			preset: "commonmark",
-			typographer: false,
-			breaks: false,
-		},
-		plugins: [anchorPlugin],
-	});
-	eleventyConfig.addPlugin(pluginTOC, {
-		ul: true,
-	});
-	eleventyConfig.setFrontMatterParsingOptions({
-		excerpt: true,
-	});
-
-	// Files that should be copied into the rendered content directory.
+// Define files that should be copied into the rendered content directory.
+function setupPassthroughCopy(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("content/**/*.kmz");
 	eleventyConfig.addPassthroughCopy("content/**/*.png");
 	eleventyConfig.addPassthroughCopy("content/**/*.jpg");
 	eleventyConfig.addPassthroughCopy("content/**/*.pdf");
 	eleventyConfig.addPassthroughCopy("content/**/*.txt");
 	eleventyConfig.addPassthroughCopy("content/**/*.gpx");
+}
 
-	// This shortcode is used in the copyright notice to ensure it always shows
-	// the current year.
-	eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
-
-	// The weightedItems collection returns a list of pages sorted by their
-	// weight property. This is used to generate the top-of-page navigation and
-	// the menu on the home page.
-	eleventyConfig.addCollection("weightedItems", (collectionApi) => {
-		return collectionApi
-			.getAll()
-			.filter((item) => item.data?.tags?.includes("page"))
-			.sort((a, b) => a.data.weight - b.data.weight);
-	});
-
+// Do not publish draft or future posts
+function doNotPublishDrafts(eleventyConfig) {
 	// When `permalink` is false, the file is not written to disk
 	eleventyConfig.addGlobalData("eleventyComputed.permalink", () => {
 		return (data) => {
@@ -83,6 +55,42 @@ export default function (eleventyConfig) {
 		if (runMode === "serve" || runMode === "watch") {
 			process.env.BUILD_DRAFTS = true;
 		}
+	});
+}
+
+export default function (eleventyConfig) {
+	eleventyConfig.addWatchTarget("./css/custom.css");
+	eleventyConfig.addWatchTarget("./css/style.css");
+	eleventyConfig.addPlugin(markdownPlugin, {
+		options: {
+			preset: "commonmark",
+			typographer: false,
+			breaks: false,
+		},
+		plugins: [anchorPlugin],
+	});
+	eleventyConfig.addPlugin(pluginTOC, {
+		ul: true,
+	});
+	eleventyConfig.setFrontMatterParsingOptions({
+		excerpt: true,
+	});
+
+	setupPassthroughCopy(eleventyConfig);
+	doNotPublishDrafts(eleventyConfig);
+
+	// This shortcode is used in the copyright notice to ensure it always shows
+	// the current year.
+	eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
+	// The weightedItems collection returns a list of pages sorted by their
+	// weight property. This is used to generate the top-of-page navigation and
+	// the menu on the home page.
+	eleventyConfig.addCollection("weightedItems", (collectionApi) => {
+		return collectionApi
+			.getAll()
+			.filter((item) => item.data?.tags?.includes("page"))
+			.sort((a, b) => a.data.weight - b.data.weight);
 	});
 
 	return {
