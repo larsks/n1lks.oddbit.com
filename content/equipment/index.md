@@ -13,12 +13,12 @@ My primary radio is a [Kenwood TM-V71A], attached via a [Digirig] to a Raspberry
 
 ## In the field
 
-My typical setup for public service events is a Kenwood TM-V71A in my van configured as a repeater, while I wear an HT (with a [very small antenna]) on my chest. If I need to use the mobile radio and I can't use the van (either I'm stationed somewhere that I can't park, or if I bike to the event) I will use an [Ed Fong DBJ-2] roll-up antenna, either strung up in a tree or mounted on a tripod and a PVC mast.
+My typical setup for public service events is a Kenwood TM-V71A in my van configured as a repeater, while I wear an HT (with a [very small antenna](https://a.co/d/4bKmNXh)) on my chest. If I need to use the mobile radio and I can't use the van (either I'm stationed somewhere that I can't park, or if I bike to the event) I will use either:
 
-[very small antenna]: https://a.co/d/4bKmNXh
-[ed fong dbj-2]: https://edsantennas.weebly.com/
+- an [Ed Fong DBJ-2](https://edsantennas.weebly.com/) roll-up antenna, either strung up in a tree or mounted on a tripod and a PVC mast, or
+- a tripod-mounted [Signal Staff](https://signalstuff.com/products/ss-osj/) collapsible opejn-stub j-pole antenna
 
-![Mobile radio deployed on a folding table with atenna mast on a tripod in the background](mobile-station.jpg)
+![Mobile radio deployed on a folding table with antenna mast on a tripod in the background](mobile-station.jpg)
 
 ## HTs
 
