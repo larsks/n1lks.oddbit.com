@@ -9,6 +9,6 @@ I was stationed at checkpoint 2 near the intersection of Scotland Rd. and Scotla
 [wet meadows]: https://www.ecga.org/property/wet-meadows-viewing-platform
 [greenbelt]: https://www.ecga.org/
 
-<!-- cut -->
+---
 
 ![Some lovely black angus cattle](cows.jpg)

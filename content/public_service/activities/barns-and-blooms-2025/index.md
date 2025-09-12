@@ -10,6 +10,6 @@ I was stationed at Checkpoint 2 near the corner of Essex Rd. and Northgate Rd. i
 [castle neck river reservation]: https://www.ecga.org/property/castle-neck-river-reservation
 [greenbelt]: https://www.ecga.org/
 
-<!-- cut -->
+---
 
 ![A picture of my station](station.jpg)

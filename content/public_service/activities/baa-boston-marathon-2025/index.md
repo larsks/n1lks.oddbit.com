@@ -8,7 +8,7 @@ This was my first year volunteering at the Boston Marathon. The Boston Marathon 
 
 [my map]: https://www.google.com/maps/d/u/0/edit?mid=1Ljv1p6dRHARUxZPiSQDZWUojn-v0lwo&usp=sharing
 
-<!-- cut -->
+---
 
 Going into this event, I was a little unsure about what exactly I would be able to bring -- the official materials are filled with information about restrictions (No backpacks! Only bring what you can wear!), but in the end it turned out I didn't need to worry: I was able to drive my minivan right up to the medical tent. I could have shown up in a communication support van sprouting multiple antennas and with my very own generator and nobody would have blinked an eye. I'm sure security is more strict near the beginning and end of the course!
 

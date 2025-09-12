@@ -8,6 +8,6 @@ I was stationed at medical tent 1A along with Tim Carter [K1DC]. Our job was to 
 
 [k1dc]: https://www.qrz.com/db/K1DC
 
-<!-- cut -->
+---
 
 ![A picture of my station at the medical tent](station.jpg)

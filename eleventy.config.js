@@ -19,7 +19,6 @@ export default function(eleventyConfig) {
   });
   eleventyConfig.setFrontMatterParsingOptions({
       excerpt: true,
-      excerpt_separator: "<!-- cut -->",
   });
 
   // Files that should be copied into the rendered content directory.
