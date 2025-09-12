@@ -2,14 +2,21 @@
 title: Public service activities
 ---
 
-## Upcoming
-
 {% assign future_posts = collections.post | post_is_future | sort: 'date' %}
-{% for post in future_posts %}
-- **{{ post.data.title }}** - {{ post.date | date: "%Y-%m-%d" }}
-{% endfor %}
 
-## Past
+{% if future_posts.length > 0 %}
+## Upcoming events
+
+{% for post in future_posts %}
+{% if runMode == "serve" or runMode == "watch" %}
+- [{{ post.data.title }}]({{ post.url }}) - {{ post.date | date: "%Y-%m-%d" }}
+{% else %}
+- **{{ post.data.title }}** - {{ post.date | date: "%Y-%m-%d" }}
+{% endif %}
+{% endfor %}
+{% endif %}
+
+## Past events
 
 {% assign past_posts = collections.post | post_is_past | sort: 'date' | reverse %}
 {% for post in past_posts %}
