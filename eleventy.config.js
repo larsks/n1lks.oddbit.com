@@ -2,6 +2,15 @@ import markdownPlugin from "@jgarber/eleventy-plugin-markdown";
 import pluginTOC from "eleventy-plugin-toc";
 import anchorPlugin from "markdown-it-anchor";
 
+const shouldHide = ({ date, draft }) => {
+	if (process.env.BUILD_DRAFTS) {
+		return false;
+	}
+	const isDraft = draft;
+	const isPageFromFuture = date && date.getTime() > Date.now();
+	return isDraft || isPageFromFuture;
+};
+
 export default function (eleventyConfig) {
 	eleventyConfig.addWatchTarget("./css/custom.css");
 	eleventyConfig.addWatchTarget("./css/style.css");
@@ -38,8 +47,42 @@ export default function (eleventyConfig) {
 	eleventyConfig.addCollection("weightedItems", (collectionApi) => {
 		return collectionApi
 			.getAll()
-			.filter((item) => item.data?.tags.includes("page"))
+			.filter((item) => item.data?.tags?.includes("page"))
 			.sort((a, b) => a.data.weight - b.data.weight);
+	});
+
+	// When `permalink` is false, the file is not written to disk
+	eleventyConfig.addGlobalData("eleventyComputed.permalink", () => {
+		return (data) => {
+			// Always skip during non-watch/serve builds
+			if (shouldHide(data)) {
+				return false;
+			}
+
+			return data.permalink;
+		};
+	});
+
+	// When `eleventyExcludeFromCollections` is true, the file is not included in any collections
+	eleventyConfig.addGlobalData(
+		"eleventyComputed.eleventyExcludeFromCollections",
+		() => {
+			return (data) => {
+				// Always exclude from non-watch/serve builds
+				if (shouldHide(data)) {
+					return true;
+				}
+
+				return data.eleventyExcludeFromCollections;
+			};
+		},
+	);
+
+	eleventyConfig.on("eleventy.before", ({ runMode }) => {
+		// Set the environment variable
+		if (runMode === "serve" || runMode === "watch") {
+			process.env.BUILD_DRAFTS = true;
+		}
 	});
 
 	return {
