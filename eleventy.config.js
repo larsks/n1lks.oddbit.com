@@ -31,6 +31,12 @@ export default function(eleventyConfig) {
 
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 
+  eleventyConfig.addCollection('weightedItems', function(collectionApi) {
+    return collectionApi.getAll()
+      .filter(item => item.data.tags && item.data.tags.includes("page")) // Filter for specific items if needed
+      .sort((a, b) => a.data.weight - b.data.weight);
+  });
+
   return {
     dir: {
       input: "content"

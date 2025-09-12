@@ -1,4 +1,8 @@
-# Reference
+---
+title: Reference material
+tags: page
+weight: 5
+---
 
 - [Solar conditions](conditions)
 - [Phonetic alphabet](alphabet)
