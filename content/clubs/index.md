@@ -1,5 +1,6 @@
 ---
 title: Radio clubs and associations
+shortTitle: Clubs & associations
 tags: page
 weight: 2
 ---

@@ -9,11 +9,9 @@
   <div id="header">
     <ul>
       <li><a href="/">Home</a></li>
-      <li><a href="/public_service">Public service</a></li>
-      <li><a href="/clubs">Radio clubs &amp; Associations</a></li>
-      <li><a href="/equipment">Equipment</a></li>
-      <li><a href="/packet">Packet radio</a></li>
-      <li><a href="/ref">Reference</a></li>
+      {% for post in collections.weightedItems %}
+        <li><a href="{{ post.url }}">{{ post.data.shortTitle | default: post.data.title }}</a>
+      {% endfor %}
     </ul>
   </div>
 
