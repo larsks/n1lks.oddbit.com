@@ -5,6 +5,7 @@ import anchorPlugin from "markdown-it-anchor";
 // Define files that should be copied into the rendered content directory.
 function setupPassthroughCopy(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("content/**/*.kmz");
+	eleventyConfig.addPassthroughCopy("content/**/*.kml");
 	eleventyConfig.addPassthroughCopy("content/**/*.png");
 	eleventyConfig.addPassthroughCopy("content/**/*.jpg");
 	eleventyConfig.addPassthroughCopy("content/**/*.pdf");
