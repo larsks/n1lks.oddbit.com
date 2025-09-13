@@ -106,16 +106,6 @@ export default function (eleventyConfig) {
 		return posts.filter((post) => post.date <= now);
 	});
 
-	// The weightedItems collection returns a list of pages sorted by their
-	// weight property. This is used to generate the top-of-page navigation and
-	// the menu on the home page.
-	eleventyConfig.addCollection("weightedItems", (collectionApi) => {
-		return collectionApi
-			.getAll()
-			.filter((item) => item.data?.tags?.includes("page"))
-			.sort((a, b) => a.data.weight - b.data.weight);
-	});
-
 	return {
 		dir: {
 			input: "content",
