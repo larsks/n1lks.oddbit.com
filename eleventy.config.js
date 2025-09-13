@@ -12,52 +12,6 @@ function setupPassthroughCopy(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("content/**/*.gpx");
 }
 
-// Do not publish draft or future posts
-function doNotPublishDrafts(eleventyConfig) {
-	const shouldHide = ({ date, draft }) => {
-		if (process.env.BUILD_DRAFTS) {
-			return false;
-		}
-		const isDraft = draft;
-		const isPageFromFuture = date && date.getTime() > Date.now();
-		return isDraft || isPageFromFuture;
-	};
-
-	// When `permalink` is false, the file is not written to disk
-	eleventyConfig.addGlobalData("eleventyComputed.permalink", () => {
-		return (data) => {
-			// Always skip during non-watch/serve builds
-			if (shouldHide(data)) {
-				return false;
-			}
-
-			return data.permalink;
-		};
-	});
-
-	// When `eleventyExcludeFromCollections` is true, the file is not included in any collections
-	eleventyConfig.addGlobalData(
-		"eleventyComputed.eleventyExcludeFromCollections",
-		() => {
-			return (data) => {
-				// Always exclude from non-watch/serve builds
-				if (shouldHide(data)) {
-					return true;
-				}
-
-				return data.eleventyExcludeFromCollections;
-			};
-		},
-	);
-
-	eleventyConfig.on("eleventy.before", ({ runMode }) => {
-		// Set the environment variable
-		if (runMode === "serve" || runMode === "watch") {
-			process.env.BUILD_DRAFTS = true;
-		}
-	});
-}
-
 function exposeRunMode(eleventyConfig) {
 	let currentRunMode = "build";
 
@@ -70,7 +24,7 @@ function exposeRunMode(eleventyConfig) {
 }
 
 export default function (eleventyConfig) {
-  exposeRunMode(eleventyConfig);
+	exposeRunMode(eleventyConfig);
 
 	eleventyConfig.addWatchTarget("./css/custom.css");
 	eleventyConfig.addWatchTarget("./css/style.css");
