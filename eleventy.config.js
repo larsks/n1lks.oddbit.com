@@ -2,15 +2,22 @@ import markdownPlugin from "@jgarber/eleventy-plugin-markdown";
 import pluginTOC from "eleventy-plugin-toc";
 import anchorPlugin from "markdown-it-anchor";
 
+// Helper function for configuring passthrough copy by extension
+function passthroughCopyExtension(eleventyConfig, ext) {
+	[ext, ext.toUpperCase()].forEach((item, _) => {
+		eleventyConfig.addPassthroughCopy(`content/**/*.${item}`);
+	});
+}
+
 // Define files that should be copied into the rendered content directory.
 function setupPassthroughCopy(eleventyConfig) {
-	eleventyConfig.addPassthroughCopy("content/**/*.kmz");
-	eleventyConfig.addPassthroughCopy("content/**/*.kml");
-	eleventyConfig.addPassthroughCopy("content/**/*.png");
-	eleventyConfig.addPassthroughCopy("content/**/*.jpg");
-	eleventyConfig.addPassthroughCopy("content/**/*.pdf");
-	eleventyConfig.addPassthroughCopy("content/**/*.txt");
-	eleventyConfig.addPassthroughCopy("content/**/*.gpx");
+	passthroughCopyExtension(eleventyConfig, "kmz");
+	passthroughCopyExtension(eleventyConfig, "kml");
+	passthroughCopyExtension(eleventyConfig, "png");
+	passthroughCopyExtension(eleventyConfig, "jpg");
+	passthroughCopyExtension(eleventyConfig, "pdf");
+	passthroughCopyExtension(eleventyConfig, "txt");
+	passthroughCopyExtension(eleventyConfig, "gpx");
 }
 
 function exposeRunMode(eleventyConfig) {
