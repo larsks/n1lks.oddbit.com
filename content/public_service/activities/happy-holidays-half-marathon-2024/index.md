@@ -12,4 +12,7 @@ It's a good thing I packed my TM-V71A, because I was just a bit too far away fro
 
 You can find some pictures from the event [here](https://photos.google.com/album/AF1QipOdTIKuRMeSPWXmk9raMrLtjzntuqLiUOIQNPTQ).
 
+- [Course map in GPX format](happy-holidays-course.gpx)
+- [Course map in KML format](happy-holidays-course.kml)
+
 ![Picture of runners along Thatcher Rd](runners.jpg)
