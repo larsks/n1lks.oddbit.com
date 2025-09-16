@@ -68,6 +68,11 @@ export default function (eleventyConfig) {
 		return posts.filter((post) => post.date <= now);
 	});
 
+  eleventyConfig.addFilter("monthName", (monthNum) => {
+    const date = new Date(2000, parseInt(monthNum, 10) - 1, 1);
+    return date.toLocaleString('en-US', { month: 'long' });
+  });
+
 	return {
 		dir: {
 			input: "content",
