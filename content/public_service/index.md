@@ -12,33 +12,25 @@ I'm keeping a log of my public service activities [here](activities/).
 
 ## Public service opportunities
 
-- [BAA Boston Marathon](https://www.baa.org/races/boston-marathon/volunteer) in April
+{% assign events = collections.event | sort: 'data.month' %}
+{% for event in events %}
+### [{{ event.data.title }}]({{ event.url }})
 
-  This is the largest amateur radio volunteer opportunity in the region. There were almost 300 volunteer radio operators in 2025.
+<table>
+<tr>
+  <td><strong>When</strong></td>
+  <td>{{ event.data.month | monthName }}</td>
+</tr>
+<tr>
+  <td><strong>Event link</strong></td>
+  <td><a href="{{ event.data.externalUrl }}">{{ event.data.externalUrl }}</a></td>
+</tr>
+</table>
 
-- [Cycle for Shelter](https://emmausinc.org/cycle-for-shelter-2/) in September
+{{ event.data.page.excerpt | markdown }}
+{% endfor %}
 
-- The [Ride to Defeat ALS](https://www.als.org/massachusetts-ch/events/ride-defeat-als-massachusetts) in September
-
-- [Baystate marathon](https://www.baystatemarathon.com/) in October
-
-  I have collected some information [here](baystate_marathon) for volunteers at the Baystate Marathon. Much of this material originated with Terry M. Stader, [KA8SCP], who helps organize amateur radio volunteer service at this event.
-
-  [ka8scp]: http://ka8scp.wb1gof.net/
-
-- [Head of the Charles Regatta](https://hocr.org/) in October
-
-- [BAA Half Marathon](https://www.baa.org/races/boston-half) in November
-
-  I have collected some information about the BAA Half Marathon [here](baa_half_marathon).
-
-- The [Cape Anne Amateur Radio Association](https://caara.net/main/) provides [race support](https://sites.google.com/view/caararaces/home) for a number of events between May and December (primarily half marathons around Cape Ann).
-
-  The CAARA "[Guidelines for Volunteers]" document is good reading if you're interested in participating.
-
-  [guidelines for volunteers]: caara-guidelines-for-volunteers.pdf
-
-### More information on opportunities
+## More information on opportunities
 
 - The [Boston Amateur Radio Club public service page](https://www.barc.org/public-service/)
 - The [ARRL volunteer opportunities](http://www.arrl.org/volunteer-opportunities) page
