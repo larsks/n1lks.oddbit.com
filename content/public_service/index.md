@@ -37,6 +37,7 @@ I'm keeping a log of my public service activities [here](activities/).
 ## More information on opportunities
 
 - The [Boston Amateur Radio Club public service page](https://www.barc.org/public-service/)
+- The [Worcester Emergency Response Team events calendar](https://wect.org/e107_plugins/wrapper/wrapper.php?1)
 - The [ARRL volunteer opportunities](http://www.arrl.org/volunteer-opportunities) page
 - The [Eastern Massachusetts ARRL](https://ema.arrl.org/) website sometimes has information about upcoming volunteer opportunities
 
