@@ -1,0 +1,18 @@
+---
+layout: base.liquid
+---
+
+<table>
+<tr>
+  <td><strong>Home page</strong></td>
+  <td><a href="{{ externalUrl }}">{{ externalUrl }}</a></td>
+</tr>
+{% if callsign %}
+<tr>
+  <td><strong>Callsign</strong></td>
+  <td>{{ callsign }}</td>
+</tr>
+{% endif %}
+</table>
+
+{{ content }}
