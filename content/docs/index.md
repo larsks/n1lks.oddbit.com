@@ -1,5 +1,6 @@
 ---
-title: Reference material
+title: Documentation
+shortTitle: Docs
 tags: page
 weight: 5
 ---
@@ -11,3 +12,7 @@ weight: 5
 - ARRL [Amateur radio frequency allocations](https://www.arrl.org/frequency-allocations)
 - ARRL [US Amateur Radio Bands](https://www.arrl.org/frequency-allocations) poster
 - [New England Repeater Directory](https://www.nerepeaters.com/)
+
+## Radios
+
+- [Yaesu FTM-6000](ftm-6000)
