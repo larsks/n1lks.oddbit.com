@@ -3,6 +3,7 @@ title: Cape Anne Amateur Radio Assocation (CAARA) Race Support
 externalUrl: https://caaran.net/main
 month: 5
 tags: event
+layout: event
 ---
 
 The [Cape Anne Amateur Radio Association][caara] provides [race support] for a number of half marathons between April and December around the Cape Ann region of Massachusetts. The races are generall organized by [YuKanRun].

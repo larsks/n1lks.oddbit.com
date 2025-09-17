@@ -3,6 +3,7 @@ title: BAA Half Marathon
 month: 11
 externalUrl: https://www.baa.org/races/boston-half
 tags: event
+layout: event
 ---
 
 The Boston Athletic Association Half Marathon, now known as the Boston Half, is an annual 13.1-mile road race presented by Dana-Farber Cancer Institute and the Jimmy Fund that takes place in November in Boston. Since 2003, Dana-Farber has served as the race's presenting sponsor and exclusive charity team, with runners collectively raising more than $10 million to support groundbreaking cancer research.

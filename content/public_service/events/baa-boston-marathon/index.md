@@ -3,6 +3,7 @@ title: BAA Boston Marathon
 externalUrl: https://www.baa.org/races/boston-marathon/volunteer
 month: 4
 tags: event
+layout: event
 ---
 
 The BAA Boston Marathon is the largest amateur radio volunteer event in the region. In 2025 there were almost 300 radio operators involved.
