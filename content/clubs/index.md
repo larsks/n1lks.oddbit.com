@@ -17,6 +17,10 @@ This is not an exhaustive list of organizations; these are just ones that I have
   <td><strong>Home page</strong></td>
   <td><a href="{{ club.data.externalUrl }}">{{ club.data.externalUrl }}</a></td>
 </tr>
+<tr>
+  <td><strong>Location</strong></td>
+  <td>{{ club.data.location }}</td>
+</tr>
 {% if club.data.callsign %}
 <tr>
   <td><strong>Callsign</strong></td>
