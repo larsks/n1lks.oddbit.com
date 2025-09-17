@@ -19,7 +19,11 @@ I'm keeping a log of my public service activities [here](activities/).
 <table>
 <tr>
   <td><strong>When</strong></td>
+{% if event.data.monthNameOverride %}
+  <td>{{ event.data.monthNameOverride }}</td>
+{% else %}
   <td>{{ event.data.month | monthName }}</td>
+{% endif %}
 </tr>
 <tr>
   <td><strong>Event link</strong></td>
