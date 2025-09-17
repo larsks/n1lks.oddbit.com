@@ -1,7 +1,8 @@
 ---
 title: Cape Anne Amateur Radio Assocation (CAARA) Race Support
 externalUrl: https://caaran.net/main
-month: 5
+month: 4
+monthNameOverride: April - December
 tags: event
 layout: event
 ---
