@@ -1,6 +1,7 @@
 ---
 title: Boston Amateur Radio Club (BARC)
 externalUrl: https://www.barc.org/
+location: Boston, MA
 callsign: W1BOS
 ---
 

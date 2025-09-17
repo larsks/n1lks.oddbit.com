@@ -2,6 +2,7 @@
 title: Cape Ann Amateur Radio Association (CAARA)
 externalUrl: https://caara.net/main
 callsign: W1GLO
+location: Gloucester, MA
 ---
 
 CAARA, an ARRL Affiliated Club, located at 6 Stanwood St. in Gloucester Massachusetts, operates the 2 meter W1GLO repeater on 145.130  MHz (– input,  with a 107.2 PL tone) with antennas located on the AT&T tower in the Blackburn Industrial Complex also in Gloucester. It has an average effective radius of 60 miles, and serves eastern Massachusetts, Cape Cod, Rhode Island, southern New Hampshire, and maritime mobile stations. CAARA is an ARRL-recognized [special service club].
