@@ -3,6 +3,7 @@ title: Radio clubs and associations
 shortTitle: Clubs & associations
 tags: page
 weight: 2
+make_toc: true
 ---
 
 This is not an exhaustive list of organizations; these are just ones that I have had some sort of personal contact with.

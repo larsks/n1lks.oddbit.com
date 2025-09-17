@@ -1,5 +1,5 @@
 ---
-title: Buzzard's Bay Du/Tri
+title: Buzzard's Bay Duathlon/Triathlon
 externalUrl: https://www.maxperformanceonline.com/buzzardsbayrace
 month: 9
 tags: event
