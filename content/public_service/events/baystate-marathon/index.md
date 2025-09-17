@@ -3,6 +3,7 @@ title: Baystate Marathon and Half Marathon
 externalUrl: https://www.baystatemarathon.com/
 month: 10 
 tags: event
+layout: event
 ---
 
 The Baystate Marathon is a marathon held in the city of Lowell, Massachusetts every October. It was first run in 1990 and has been run every year since. The course is known as one of the flattest and fastest marathon courses in the northeastern United States. This race is a qualifier for the Boston Marathon.

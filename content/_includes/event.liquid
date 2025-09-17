@@ -1,0 +1,15 @@
+---
+layout: base.liquid
+---
+<table>
+<tr>
+  <td><strong>When</strong></td>
+  <td>{{ month | monthName }}</td>
+</tr>
+<tr>
+  <td><strong>Event link</strong></td>
+  <td><a href="{{ externalUrl }}">{{ externalUrl }}</a></td>
+</tr>
+</table>
+
+{{ content }}

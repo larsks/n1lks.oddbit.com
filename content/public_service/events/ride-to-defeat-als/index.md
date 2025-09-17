@@ -3,6 +3,7 @@ title: Ride to Defeat ALS
 month: 9
 externalUrl: https://www.als.org/massachusetts-ch/events/ride-defeat-als-massachusetts
 tags: event
+layout: event
 ---
 
 The Ride to Defeat ALS is an annual community fundraising bicycle event held in Massachusetts, typically on September 20th, that brings together riders to support people affected by [ALS] (Amyotrophic Lateral Sclerosis). The annual Massachusetts Ride to Defeat ALS is an opportunity for friends, family, and the local community to join together to support those people affected by ALS in Massachusetts, with funds raised at this event helping to discover treatments and a cure for ALS, to serve, advocate for, and empower those living with the disease.
