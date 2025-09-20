@@ -56,6 +56,10 @@ export default function (eleventyConfig) {
 	// This shortcode is used in the copyright notice to ensure it always shows
 	// the current year.
 	eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+	eleventyConfig.addShortcode(
+		"qrz",
+		(callsign) => `[${callsign}](https://www.qrz.com/db/${callsign})`,
+	);
 
 	// Custom filters for post date filtering
 	eleventyConfig.addFilter("post_is_future", (posts) => {
@@ -68,10 +72,10 @@ export default function (eleventyConfig) {
 		return posts.filter((post) => post.date <= now);
 	});
 
-  eleventyConfig.addFilter("monthName", (monthNum) => {
-    const date = new Date(2000, parseInt(monthNum, 10) - 1, 1);
-    return date.toLocaleString('en-US', { month: 'long' });
-  });
+	eleventyConfig.addFilter("monthName", (monthNum) => {
+		const date = new Date(2000, parseInt(monthNum, 10) - 1, 1);
+		return date.toLocaleString("en-US", { month: "long" });
+	});
 
 	return {
 		dir: {
