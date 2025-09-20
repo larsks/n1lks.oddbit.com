@@ -26,8 +26,8 @@ We will be using the MMRA linked repeater network for this event:
 
 - [RideWithGPS route collection](https://ridewithgps.com/events/339327-2025-ride-to-defeat-als?S=48988366)
 
-KML files for the different route options:
+Individual routes:
 
-- [100 KM (62 mile)](100km-route.kml)
-- [40 mile route](40mile-route.kml)
-- [20 mile route](20mile-route.kml)
+- 100 KM (62 mile) [KML](100km-route.kml) [Garmin course](https://connect.garmin.com/modern/course/405225257)
+- 40 mile route [KML](40mile-route.kml) [Garmin course](https://connect.garmin.com/modern/course/405225300)
+- 20 mile route [KML](20mile-route.kml) [Garmin course](https://connect.garmin.com/modern/course/405225326)
