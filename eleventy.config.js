@@ -77,6 +77,21 @@ export default function (eleventyConfig) {
 		return date.toLocaleString("en-US", { month: "long" });
 	});
 
+	// Filter to render shortcodes in excerpt text
+	eleventyConfig.addFilter("renderTemplate", async function (content) {
+		try {
+			// Use the liquid engine available in the filter context
+			const result = await this.liquid.parseAndRender(
+				content,
+				this.context.getAll(),
+			);
+			return result;
+		} catch (e) {
+			console.warn("Failed to render template content:", e);
+			return content;
+		}
+	});
+
 	return {
 		dir: {
 			input: "content",

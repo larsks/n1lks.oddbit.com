@@ -30,6 +30,6 @@ This is not an exhaustive list of organizations; these are just ones that I have
 {% endif %}
 </table>
 
-{{ club.data.page.excerpt | markdown }}
+{{ club.data.page.excerpt | renderTemplate | markdown }}
 {% endfor %}
 
