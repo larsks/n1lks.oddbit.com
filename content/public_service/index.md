@@ -31,7 +31,7 @@ I'm keeping a log of my public service activities [here](activities/).
 </tr>
 </table>
 
-{{ event.data.page.excerpt | markdown }}
+{{ event.data.page.excerpt | renderTemplate | markdown }}
 {% endfor %}
 
 ## More information on opportunities

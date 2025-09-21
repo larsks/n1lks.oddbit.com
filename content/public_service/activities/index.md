@@ -23,5 +23,5 @@ title: Public service activities
 
 ### [{{ post.data.title }}]({{ post.url }}) - {{ post.date | date: "%Y-%m-%d" }}
 
-{{ post.data.page.excerpt | markdown }}
+{{ post.data.page.excerpt | renderTemplate | markdown }}
 {% endfor %}
