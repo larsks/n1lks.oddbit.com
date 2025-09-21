@@ -7,6 +7,8 @@ tags: post
 ## Documents
 
 - [Baystate Marathon Runner Accountability Doc](Baystate%20Marathon%20Runner%20Accountability%20Doc.pdf)
+- [Course map and description](https://www.baystatemarathon.com/course-map-description)
+- [Garmin course](https://connect.garmin.com/modern/course/128993260)
 
 ## Radio frequencies
 
