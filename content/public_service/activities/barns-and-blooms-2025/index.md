@@ -1,5 +1,6 @@
 ---
 title: Barns and Blooms Half Marathon May 2025
+event: caara
 date: 2025-05-17
 tags: post
 ---

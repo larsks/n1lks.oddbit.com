@@ -1,5 +1,6 @@
 ---
 title: Baystate Marathon 2025
+event: baystate-marathon
 date: 2025-10-19
 tags: post
 ---

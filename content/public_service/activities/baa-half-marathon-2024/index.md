@@ -1,5 +1,6 @@
 ---
 title: BAA Half Marathon November 2024
+event: baa-half-marathon
 date: 2024-11-10
 tags: post
 ---

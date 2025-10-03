@@ -1,5 +1,6 @@
 ---
 title: Marblehead Half Marathon April 2025
+event: caara
 date: 2025-04-13
 tags: post
 ---

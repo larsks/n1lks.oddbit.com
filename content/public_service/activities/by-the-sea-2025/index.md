@@ -1,5 +1,6 @@
 ---
 title: By the Sea Half Marathon September 2025
+event: caara
 date: 2025-09-14
 tags: post
 ---

@@ -1,5 +1,6 @@
 ---
 title: Happy Holidays Half Marathon December 2024
+event: caara
 date: 2024-12-08
 tags: post
 ---
