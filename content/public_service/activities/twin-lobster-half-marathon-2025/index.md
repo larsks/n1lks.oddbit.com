@@ -1,5 +1,6 @@
 ---
 title: Twin Lobster Half Marathon June 2025
+event: caara
 date: 2025-06-01
 tags: post
 ---

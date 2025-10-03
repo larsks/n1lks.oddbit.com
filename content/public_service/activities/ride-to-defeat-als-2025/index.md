@@ -1,5 +1,6 @@
 ---
 title: Ride to Defeat ALS September 2025
+event: ride-to-defeat-als
 date: 2025-09-20
 tags: post
 ---

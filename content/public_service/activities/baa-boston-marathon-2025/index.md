@@ -1,5 +1,6 @@
 ---
 title: BAA Boston Marathon April 2025
+event: baa-boston-marathon
 date: 2025-04-21
 tags: post
 ---

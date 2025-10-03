@@ -1,5 +1,6 @@
 ---
 title: Baystate Marathon October 2024
+event: baystate-marathon
 date: 2024-10-20
 tags: post
 ---

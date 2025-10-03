@@ -1,5 +1,6 @@
 ---
 title: IPA Half Marathon July 2025
+event: caara
 date: 2025-07-20
 tags: post
 ---

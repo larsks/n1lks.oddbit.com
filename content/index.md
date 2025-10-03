@@ -6,7 +6,13 @@ title: Lars Kellogg-Stedman/N1LKS
 {% if future_posts.length > 0 %}
 <div class="next-public-service">
 {% assign post = future_posts[0] %}
-Next [public service](public_service) event I will be attending: <strong>{{ post.data.title }} ({{ post.date | date: "%Y-%m-%d" }})</strong>
+{% if post.data.event %}
+{% assign eventurl = "/public_service/events/" | append: post.data.event %}
+{% else %}
+{% assign eventurl = "/public_service" %}
+{% endif %}
+Next [public service](public_service) event I will be attending: 
+<strong><a href="{{ eventurl }}">{{ post.data.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})</strong>
 </div>
 {% endif %}
 

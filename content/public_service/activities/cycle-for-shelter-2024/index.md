@@ -1,5 +1,6 @@
 ---
 title: Cycle for Shelter September 2024
+event: cycle-for-shelter
 date: 2024-09-15
 tags: post
 ---
