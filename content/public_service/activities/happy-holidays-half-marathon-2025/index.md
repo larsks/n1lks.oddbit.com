@@ -11,6 +11,6 @@ The Happy Holidays Half Marathon (aka Merrithon) is the last half marathon of th
 
 I used [QGIS] to create a [custom map] of the course.
 
-[custom map]: map.pdf
+[custom map]: caara-happy-holidays-2025.pdf
 [qgis]: https://qgis.org/
 
