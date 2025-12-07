@@ -5,7 +5,7 @@ date: 2025-12-07
 tags: post
 ---
 
-The Happy Holidays Half Marathon (aka Merrithon) is the last half marathon of the season supported by [CAARA]. For this event, rather than serving at one of the checkjpoints I was shadowing Fred WA1ESU at Net Control. I am planning on acting as net control for some of the races next year; the plan is to try to rotate several folks through the position so that we have multiple people with appropriate experience.
+The Happy Holidays Half Marathon (aka Merrithon) is the last half marathon of the season supported by [CAARA]. For this event, rather than serving at one of the checkjpoints I was shadowing Fred WA1ESU at Net Control. I will be acting as net control for some of the races next year; the plan is to try to rotate several folks through the position so that we have multiple people with appropriate experience.
 
 [caara]: https://caara.net/
 
