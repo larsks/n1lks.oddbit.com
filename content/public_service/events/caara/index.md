@@ -17,19 +17,19 @@ The [Cape Anne Amateur Radio Association][caara] provides [race support] for a n
 
 ## The races
 
-- Fools Dual (April)
-- Marblehead (April)
-- Twin Lights (May)
-- Barns & Blooms (May)
-- Twin Lobster (June)
-- Town & Country (June)
-- IPA (July)
-- Triple Threat (August)
-- By the Sea (September)
-- Port Run (September)
-- Around Cape Ann (October)
-- Ocean View (November)
-- Happy Holidays (December)
+- [Fools Dual](https://www.yukanrun.com/fools-dual-half-marathon-5k) (April)
+- [Marblehead](https://www.yukanrun.com/marblehead-half-marathon) (April)
+- [Twin Lights](https://www.yukanrun.com/twin-lights-half-marathon) (May)
+- [Barns & Blooms](https://www.yukanrun.com/barns-blooms-half-marathon) (May)
+- [Twin Lobster](https://www.yukanrun.com/twin-lobster-half-marathon) (June)
+- [Town & Country](https://www.yukanrun.com/town-and-country-half-marathon) (June)
+- [IPA](https://www.yukanrun.com/ipa5kandhalf) (July)
+- [Triple Threat](https://www.yukanrun.com/triplethreat-half-marathon-5k) (August)
+- [By the Sea](https://www.yukanrun.com/half-marathon-by-the-sea) (September)
+- [Port Run](https://www.yukanrun.com/portrun-half-marathon-5k) (September)
+- [Around Cape Ann](https://www.yukanrun.com/around-cape-ann-half-marathon) (October)
+- [Ocean View](https://www.yukanrun.com/oceanview-half-marathon-5k) (November)
+- [Happy Holidays](https://www.yukanrun.com/happy-holidays-half-merrython-5k) (December)
 
 The CAARA "[Guidelines for Volunteers]" document is good reading if you're interested in participating.
 
