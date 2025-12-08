@@ -24,7 +24,7 @@ The [Cape Anne Amateur Radio Association][caara] provides [race support] for a n
 - Twin Lobster (June)
 - Town & Country (June)
 - IPA (July)
-- Triple Thread (August)
+- Triple Threat (August)
 - By the Sea (September)
 - Port Run (September)
 - Around Cape Ann (October)
