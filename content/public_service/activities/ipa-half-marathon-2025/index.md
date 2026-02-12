@@ -2,7 +2,7 @@
 title: IPA Half Marathon July 2025
 event: caara
 date: 2025-07-20
-tags: post
+tags: activity
 ---
 
 I was stationed at checkpoint 2 near the intersection of Scotland Rd. and Scotland Heights in Newbury, MA. I set up shop a little bit down the road at the [Wet Meadows] area, part of the [Greenbelt]. When I wasn't paying attention to the race I was able to watch the cows.

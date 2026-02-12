@@ -2,7 +2,7 @@
 title: BAA Half Marathon 2025
 event: baa-half-marathon
 date: 2025-11-09
-tags: post
+tags: activity
 ---
 
 Another year of waking up at 4:30AM and biking into Boston! This year I was stationed at [water stop 5], on Jamaicaway just north of Craftson Way. I met up with the rest of the volunteers at the main medical tent in Franklin Park, and then after our briefing biked the three miles from Franklin Park to the station. Once there, I met up with the water stop crew from [Shamrock Running Club] of Woburn. We lucked out with the weather; it was warmer than expected when I left the house (maybe 50°F), and during the race it was mostly sunny and approaching 60°F towards the end.

@@ -2,7 +2,7 @@
 title: Baystate Marathon 2025
 event: baystate-marathon
 date: 2025-10-19
-tags: post
+tags: activity
 ---
 
 This is my second year working at the Baystate marathon. It looks like they're expecting just about 2500 runners this year. Last year I was stationed at one of the medical tents at the Tsongas center. This year I was stationed out on the course at [water stop #6](https://maps.app.goo.gl/68SApMVMaqHZgn5d8), along the Merrimack River and across from American Legion post 247 in Tyngsborough. We were accompanied by groups of student volunteers from the Tyngsborough HS cross country team, the Lowell HS National Honor Society, and possibly one other group.

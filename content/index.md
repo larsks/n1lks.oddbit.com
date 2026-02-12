@@ -2,7 +2,7 @@
 title: Lars Kellogg-Stedman/N1LKS
 ---
 
-{% assign future_posts = collections.post | post_is_future | sort: 'date' %}
+{% assign future_posts = collections.activity | post_is_future | sort: 'date' %}
 {% if future_posts.length > 0 %}
 <div class="next-public-service">
 {% assign post = future_posts[0] %}

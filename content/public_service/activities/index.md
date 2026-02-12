@@ -2,7 +2,7 @@
 title: Public service activities
 ---
 
-{% assign future_posts = collections.post | post_is_future | sort: 'date' %}
+{% assign future_posts = collections.activity | post_is_future | sort: 'date' %}
 
 {% if future_posts.length > 0 %}
 ## Upcoming events
@@ -18,7 +18,7 @@ title: Public service activities
 
 ## Past events
 
-{% assign past_posts = collections.post | post_is_past | sort: 'date' | reverse %}
+{% assign past_posts = collections.activity | post_is_past | sort: 'date' | reverse %}
 {% for post in past_posts %}
 
 ### [{{ post.data.title }}]({{ post.url }}) - {{ post.date | date: "%Y-%m-%d" }}

@@ -2,7 +2,7 @@
 title: BAA Boston Marathon April 2025
 event: baa-boston-marathon
 date: 2025-04-21
-tags: post
+tags: activity
 ---
 
 This was my first year volunteering at the Boston Marathon. The Boston Marathon is one of the largest amateur radio service opportunities in the area. There were close to 300 amateur radio volunteers helping out this year. I was stationed at Med tent 3, at mile 7, which is right at the intersection of Bishop St. and Waverley St. in Framingham (you can see [my map] of the marathon showing all the water stops, medical tents, etc).

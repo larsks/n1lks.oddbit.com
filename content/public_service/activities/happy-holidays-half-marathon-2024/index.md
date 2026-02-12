@@ -2,7 +2,7 @@
 title: Happy Holidays Half Marathon December 2024
 event: caara
 date: 2024-12-08
-tags: post
+tags: activity
 ---
 
 I was stationed at Checkpoint 1, the intersection of Thatcher Rd and Farm Lane (some sort of private drive).

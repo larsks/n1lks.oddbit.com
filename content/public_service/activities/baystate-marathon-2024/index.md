@@ -2,7 +2,7 @@
 title: Baystate Marathon October 2024
 event: baystate-marathon
 date: 2024-10-20
-tags: post
+tags: activity
 ---
 
 I was stationed at medical tent 1A along with Tim Carter [K1DC]. Our job was to record the bib numbers of runners coming in for medical care so that we could provide those to the family info table if someone dropped by looking for their people.

@@ -2,7 +2,7 @@
 title: Ride to Defeat ALS September 2025
 event: ride-to-defeat-als
 date: 2025-09-20
-tags: post
+tags: activity
 ---
 
 The [Ride to Defeat ALS] is a bicycle ride to raise funds for research into treatements for [ALS]. This is my first year volunteering at this event, and also my first time volunteering in a SAG vehicle. I was operating in SAG #1 along with Matt Brennan, {% qrz "NM1B" %}, who coordinate the radio volunteer effort for this event.

@@ -2,7 +2,7 @@
 title: By the Sea Half Marathon September 2025
 event: caara
 date: 2025-09-14
-tags: post
+tags: activity
 ---
 
 I was stationed at checkpoint 5 near the intersection of [Chebacco Rd. and Essex St.][cp5] I have put together a [course map with checkpoint locations]. This wasn't as scenic as some other locations; Essex St. is relatively busy. Joe the Hamilton police officer closed down one side of the road to help keep runners safe.
